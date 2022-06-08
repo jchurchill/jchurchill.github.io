@@ -1,0 +1,5 @@
+{%- if include.js -%}
+  {% for js_file in include.js %}
+  <script src="{{ js_file }}" type="text/javascript" async></script>
+  {% endfor %}
+{%- endif -%}

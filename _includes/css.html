@@ -1,0 +1,5 @@
+{%- if include.css -%}
+  {% for css_file in include.css %}
+  <link rel="stylesheet" href={{css_file}}>
+  {% endfor %}
+{%- endif -%}
