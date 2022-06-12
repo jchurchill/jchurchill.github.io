@@ -1,3 +1,44 @@
 ---
-layout: home
+layout: default
 ---
+
+<main aria-label="Content">
+  <section class="home-title-banner">
+    <video poster="/assets/images/bg_video_poster.jpg" tabindex="-1" webkit-playsinline="" playsinline="" controlslist="nodownload" autoplay muted loop>
+      <source src="/assets/images/bg_video.mp4" type="video/mp4">
+    </video>
+    <div class="home-video-overlay"></div>
+    <h1>random walks</h1>
+    <h2>in three dimensions</h2>
+  </section>
+
+  <section class="wrapper">
+    <h1 class="page-heading">Latest posts</h1>
+    <div class="home">
+      <ul class="post-list">
+        {%- for post in site.posts -%}
+        <li>
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <span class="post-meta">
+            {{ post.date | date: date_format }}
+            {%- if post.author -%}
+            &nbsp;•&nbsp;{{ post.author | escape }}
+            {%- endif -%}
+          </span>
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h3>
+          {%- if site.show_excerpts -%}
+            {{ post.excerpt }}
+            <div>
+              <a class="post-continue-link" href="{{ post.url | relative_url }}">Continue reading…</a>
+            </div>
+          {%- endif -%}
+        </li>
+        {%- endfor -%}
+      </ul>
+    </div>       
+  </section>
+</main>

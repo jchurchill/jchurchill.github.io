@@ -1,5 +1,6 @@
 ---
 title:  "A cat picture to kick things off"
+author: Justin Churchill
 ---
 
 Critical to any good webpage.
