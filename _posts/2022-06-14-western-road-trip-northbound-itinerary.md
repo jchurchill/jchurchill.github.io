@@ -2,7 +2,7 @@
 title: "Western Road Trip: Northbound Itinerary"
 author: Justin Churchill
 ---
-From mid-June to mid-September, Judy and I will be going on a long road trip in the Western US, mostly living out of our SUV, doing a mix of normal and [dispersed](https://www.blm.gov/programs/recreation/camping) camping. These are the rough plans for the northbound half, which should last about 6 weeks.
+From mid-June to mid-September, Judy and I will be going on a long road trip in the Western US, mostly living out of our SUV, doing a mix of normal and [dispersed](https://www.blm.gov/programs/recreation/camping){:target="_blank"} camping. These are the rough plans for the northbound half, which should last about 6 weeks.
 
 We are planning to hit the road on 6/21. We'd love to meet up with others for any part of it - message me if you might be in any of the parks or cities we plan to stop in!
 
@@ -19,9 +19,9 @@ We are planning to hit the road on 6/21. We'd love to meet up with others for an
 </figure>
 
 #### Destinations
-* [Guadalupe Mountains National Park][Guadalupe Mountains] (TX)
-* [White Sands National Park][White Sands] (NM)
-* [Bisti Badlands][Bisti Badlands] (+ surrounding areas [1][Chaco Culture], [2][Angel Peak], [3][Ah-Shi-Sle-Pah]) (NM)
+* [Guadalupe Mountains National Park][Guadalupe Mountains]{:target="_blank"} (TX)
+* [White Sands National Park][White Sands]{:target="_blank"} (NM)
+* [Bisti Badlands][Bisti Badlands]{:target="_blank"} (+ surrounding areas [1][Chaco Culture]{:target="_blank"}, [2][Angel Peak]{:target="_blank"}, [3][Ah-Shi-Sle-Pah]{:target="_blank"}) (NM)
 
 #### Notes
 * 8 hour drive between Austin and Guadalupe 😵
@@ -36,10 +36,10 @@ We are planning to hit the road on 6/21. We'd love to meet up with others for an
 </figure>
 
 #### Destinations
-* [Mesa Verde National Park][Mesa Verde] (CO)
-* [Great Sand Dunes National Park][Great Sand Dunes] (CO)
-* [Black Canyon of the Gunnison National Park][Black Canyon Gunnison] (CO)
-* [Rocky Mountain National Park][Rocky Mountain] (CO)
+* [Mesa Verde National Park][Mesa Verde]{:target="_blank"} (CO)
+* [Great Sand Dunes National Park][Great Sand Dunes]{:target="_blank"} (CO)
+* [Black Canyon of the Gunnison National Park][Black Canyon Gunnison]{:target="_blank"} (CO)
+* [Rocky Mountain National Park][Rocky Mountain]{:target="_blank"} (CO)
 
 #### Notes
 * For hiking, the second two parks have much more than the first two, so we'll be spending more time at those.
@@ -53,15 +53,15 @@ We are planning to hit the road on 6/21. We'd love to meet up with others for an
 </figure>
 
 #### Destinations
-* [Grand Teton National Park][Grand Teton]
-* [Yellowstone National Park][Yellowstone]
-* [Glacier National Park][Glacier]
-* [Banff National Park][Banff]
-* [Jasper National Park][Jasper]
+* [Grand Teton National Park][Grand Teton]{:target="_blank"} (WY)
+* [Yellowstone National Park][Yellowstone]{:target="_blank"} (WY)
+* [Glacier National Park][Glacier]{:target="_blank"} (MT)
+* [Banff National Park][Banff]{:target="_blank"} (Canada)
+* [Jasper National Park][Jasper]{:target="_blank"} (Canada)
 * Vancouver!
 
 #### Notes
-* There's major flood damage in Yellowstone as of 6/13/22 ([see cool/scary video from NPS](https://www.flickr.com/photos/yellowstonenps/52144418361/in/album-72157668680150793/)). We will probably have to skip it. Maaaybe it'll be partially open by the time we get there.
+* There's major flood damage in Yellowstone as of 6/13/22 ([see cool/scary video from NPS](https://www.flickr.com/photos/yellowstonenps/52144418361/in/album-72157668680150793/){:target="_blank"}). We will probably have to skip it. Maaaybe it'll be partially open by the time we get there.
 * TWO 8 hour drives this time.
 * Most of these parks are huuuge, so I'm looking forward to spending multiple days at each. It'll be nice to have longer breaks from driving.
 * I've been to Banff once before and loved it. Can't wait to be back.
