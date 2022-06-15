@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <figure>
-    <img src="https://lh3.googleusercontent.com/pw/AM-JKLWGl_cCXhnD034usLQB5KS1I6y9UHmGqobp_xL5BCYA5HINBpj6ebW_Hy6bhGbfDOGJD0Q4pbuLEFDI4XcCHPf_ZOW4mEqdnSi6yvNZus-Yvi1oJ_CjI7SmyRwFzkMAu4tTBBIvKLYdRZAiHS9ctk5Nyw=w1500-h290-no?authuser=0">
+    <img src="/assets/images/about_me.jpg">
     <figcaption>itsa me!</figcaption>
 </figure>
 
