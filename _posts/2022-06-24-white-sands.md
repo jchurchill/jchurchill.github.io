@@ -67,3 +67,5 @@ Also it’s right next to White Sands missile range. The park actually has to sh
 </figure>
 
 After this we hopped in the car and drove 2 more hours to our next campground near the Bisti Badlands!
+
+_post originally written 7/6, backdated to match reality_
