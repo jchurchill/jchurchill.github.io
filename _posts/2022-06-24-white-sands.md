@@ -3,7 +3,6 @@ title: "White Sands NP, NM"
 author: Justin Churchill
 ---
 ## Day 3 (continued): arrive at White Sands
-
 We arrived at Oliver Lee State Park after a ~3 hour drive and set up camp in a spot we had reserved. It had such a nice expansive view of New Mexico! Overall the grounds were pretty nice - they had showers!!
 
 <figure>
