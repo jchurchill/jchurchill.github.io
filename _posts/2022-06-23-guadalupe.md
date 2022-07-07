@@ -109,3 +109,5 @@ The hike was short so we packed up camp after that, and left by noon. On to New 
 	<img src="https://lh3.googleusercontent.com/pw/AM-JKLVs6J3uukxTD398GTBIQq7yEenqygmW1oXFUv3gOFqn9DdMLiI-7M57LqZ1IW-AIdu4oB9zY-B6lal6mCZpH7qi7N3oXifhkqV5edYQDlH2zaAz_OmrbrSxfrIbQZOTj-2HCjkWpoyoBqy50pUhDhFlaQ=w750-h564-no?authuser=0">
 	<figcaption>at least 300 miles from the road picture higher up but that’s Texas for ya</figcaption>
 </figure>
+
+_post originally written 6/27, backdated to match reality_
