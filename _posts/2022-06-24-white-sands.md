@@ -41,7 +41,6 @@ After, we headed back to camp for the night. And took advantage of the aforement
 
 ## Day 4: Alkali Flats then onto Bisti Badlands
 
-<pic of sunrise over mt>
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AM-JKLXy0mZqcJMUxqBHd2eqSBCKm--5FPzZpb996Z1hUz7ai2Yc0Cf-1mMt5HC9FNR2mcIHy8PsSNT48wPNsf-h9ZrakxmVMvyn8NZYkc4jShrP-jVftRCVDNNtNw31sezAOvJbHzfvGrfSZQCX4-sstZklKw=w1862-h1396-no?authuser=0">
     <figcaption>another great sunrise over the mountains at camp</figcaption>
