@@ -55,7 +55,7 @@ Rain doesn't help your traction, either:
 
 <!-- judy slipping -->
 <figure>
-    <img src="https://lh3.googleusercontent.com/pw/AM-JKLVCGf2LUOXIYpZEbNSn0a7zjeIJrUJ7UfnS1mztfyz1q92KvEHy2-UQ-MDCNDrv7Y1pECMxaK4rOgvuVNBvMNBNl6-8QsPinYXqbighWbYozpptc2W3Sc_i9Ek8ZLi_pTKg2eWEDvPWIokCYtnaxY6O4w=48-h1396-no?authuser=0">
+    <img src="https://lh3.googleusercontent.com/pw/AM-JKLVCGf2LUOXIYpZEbNSn0a7zjeIJrUJ7UfnS1mztfyz1q92KvEHy2-UQ-MDCNDrv7Y1pECMxaK4rOgvuVNBvMNBNl6-8QsPinYXqbighWbYozpptc2W3Sc_i9Ek8ZLi_pTKg2eWEDvPWIokCYtnaxY6O4w=w1048-h1396-no?authuser=0">
     <figcaption>taking pictures instead of helping</figcaption>
 </figure>
 
