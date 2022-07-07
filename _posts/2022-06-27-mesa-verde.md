@@ -6,7 +6,7 @@ author: Justin Churchill
 ## Day 6: Welcome to Colorado!
 <!-- welcome to colorful colorado -->
 <figure>
-    <img src="https://lh3.googleusercontent.com/pw/AM-JKLXVpCIwhx8VvipwY1nVXf2S_9ZBbG3IY_FFl7cwG3o8XlFA3zTpIy1eClaejUOHYHdXsDAiAEOq79Cn9yA-xbvGwZZOUMXReJ5Yw4h1RGf7Jm7QKI_E_JV-NXQo3uPgg6EXOoQfY7KsCURkUGY68_V1RA=w1085-h1145-no?authuser=0">
+    <img width="400px" src="https://lh3.googleusercontent.com/pw/AM-JKLXVpCIwhx8VvipwY1nVXf2S_9ZBbG3IY_FFl7cwG3o8XlFA3zTpIy1eClaejUOHYHdXsDAiAEOq79Cn9yA-xbvGwZZOUMXReJ5Yw4h1RGf7Jm7QKI_E_JV-NXQo3uPgg6EXOoQfY7KsCURkUGY68_V1RA=w1085-h1145-no?authuser=0">
     <figcaption>colorado will at least be verde, TBD on the other colors</figcaption>
 </figure>
 
@@ -74,6 +74,12 @@ At least Colorado gracefully apologized for what it just did to us.
     <img src="https://lh3.googleusercontent.com/pw/AM-JKLXQ9piVG20ljbdI4qh7pNxDUWoaNhEA_xcbtUJp9fz2amIliIUlvCQwQdXIgQzOvBAZQqS9wfDnk1uYPSK-ElsIr_BOMkKRlNIhnYV2KebKEVlbTsAPSAk4yp0ZMqhAuDubhTEpHsVR7ohrzf_9Q-I0wQ=w1862-h1396-no?authuser=0">
     <figcaption>colorful colorado: confirmed</figcaption>
 </figure>
+
+This was the first time we began to feel just how much work camping can be, at least at the pace we were doing it. Half our days involved long drives so far. We hiked nearly every day. We didn't stay in any spot longer than two nights, which is a lot of setting up and tearing down camp. And when the weather makes this more difficult, it all adds up and leaves very little down time. 
+
+I began to appreciate how many aspects of modern life really save a lot of time. The bathroom is three steps from the bedroom. A water source is never more than ten feet away. You don't have to repeatedly pack all your things into a small number of boxes / bags. 
+
+It's all good though, this is what we signed up for. 🙂 You appreciate the good more once you know the bad.
 
 ## Day 7: Last bits of Mesa Verde, onto Black Canyon
 
