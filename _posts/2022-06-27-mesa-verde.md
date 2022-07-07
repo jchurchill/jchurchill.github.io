@@ -40,7 +40,7 @@ We did a moderate hike that went through the cliffs called the Petroglyphs trail
 <!-- judy in eroded wall-->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AM-JKLWwWharjX7_4JMUYA5eSwEc1dKNEiKFNfNTh4m58dKtAWB3N8Pm6tLt-uNTwKrjmN50nn0rBiBp7R-mGXkQFqSMwY1i4ZlOsrcAQVF40SAhW2aOPzaRQr4Okl-VWSCJqZefMR0qNK4n_qmcEfczknUWsg=w1048-h1396-no?authuser=0">
-    <figcaption>still bigger than a NYC apartment</figcaption>
+    <figcaption>still bigger and more light than a NYC apartment</figcaption>
 </figure>
 
 It started to pour during the hike. We usually bring rain jackets to prepare, but when the rain is hard enough it will soak our shoes, which sucks. 😥 It would take some time for them to dry again, but fortunately we had bright sun over the next few days.
