@@ -7,7 +7,7 @@ author: Justin Churchill
 We arrived at Oliver Lee State Park after a ~3 hour drive and set up camp in a spot we had reserved. It had such a nice expansive view of New Mexico! Overall the grounds were pretty nice - they had showers!!
 
 <figure>
-    <img src="https://lh3.googleusercontent.com/pw/AM-JKLWUw9-xP7Vl9asw8IQQWuyVd_EVLYsg4GGSi-mbJqy-pvM4mbJr4C15f5sfK9RDjk9ivV0jW3tVFRfkH7R9hTX-Fx_uTDSMN8491IvqIuYwZSa5UKBByvOb3r3UVq2jkIEBK8G_I6qgQUDw3gps-XloTQ=w1862-h1396-no?authuser=0">
+    <img src="https://lh3.googleusercontent.com/pw/AM-JKLVlLuZfpebAVPS8W_LXWGgo_oddw9fQw7lZen4nw0h3yU8CEyk2Pr4Mz9bE4pTd3LJUz1K9tCJJzBb86WiLRngqzy5oPoeK0nB9lDZgsSs8WpWa0YUXSEXCzWsIoupHIHquONx7mDIftZLecxNfZ7ooNQ=w1862-h1396-no?authuser=0">
     <figcaption>campsite at Oliver Lee</figcaption>
 </figure>
 
@@ -50,7 +50,7 @@ After, we headed back to camp for the night. And took advantage of the aforement
 
 We packed up camp and drove over to White Sands again for a longer dune hike: Alkali Flats.
 
-Morning at camp was pretty hot — remember, this is New Mexico in late June — so I was worried about the heat of 5 miles on sand. Fortunately, we had some cloud cover, but we still each drank all of the 3 or 4 liters of water we brought.
+Morning at camp was pretty hot — remember, this is New Mexico in late June — so I was worried about the heat of five miles on sand. Fortunately, we had some cloud cover, but we still each drank all of the three or four liters of water we brought.
 
 Five miles was a bit much since the scenery wasn’t very varied, but there were still some cool things about it. For one, you can run down the steep dunes and let yourself slide a bit in each step, making it feel like you’re gliding down the hill.
 
