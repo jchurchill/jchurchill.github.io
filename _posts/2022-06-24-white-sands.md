@@ -64,6 +64,6 @@ Also it’s right next to White Sands missile range. The park actually has to sh
     <figcaption>unexploded munitions somewhere out there</figcaption>
 </figure>
 
-After this we hopped in the car and drove 2 more hours to our next campground near the Bisti Badlands!
+After this we hopped in the car and drove 6 more hours to our next campground near the Bisti Badlands!
 
 _post originally written 7/6, backdated to match reality_
