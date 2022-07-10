@@ -4,7 +4,7 @@ author: Justin Churchill
 ---
 
 ## Day 7: Driving to Black Canyon
-The afternoon of the 27th after the previous hike at Mesa Verde, we set off to Black Canyon of the Gunnison NP, a ~4 hour drive. This was probably the most scenic multi-hour drive we've ever done. I was not expecting it to be this pretty given that we were just trying to get from A to B.
+The afternoon of the 27th, after the previous hike at Mesa Verde, we set off to Black Canyon of the Gunnison NP, a ~4 hour drive. This was probably the most scenic multi-hour drive we've ever done. I was not expecting it to be this pretty given that we were just trying to get from A to B.
 
 <!-- pretty view of co while driving -->
 <figure>
@@ -24,7 +24,7 @@ This is a beautiful state. I can see why it's popular to move here.
 
 Black Canyon of the Gunnison is small for a national park: it's less than 1/50th the size of Yellowstone. The south and north sides are separated by the canyon, and we only spent time on the south side.
 
-The south side f the park has one main road with lots of pullouts for taking pictures of canyon views. For hiking, there are only a couple of short (< 4mi) easy / moderate hikes, plus three very hard hikes that the rangers try to convince you not to do (...more on that later).
+The south side of the park has one main road with lots of pullouts for taking pictures of canyon views. For hiking, there are only a couple of short (< 4mi) easy / moderate hikes, plus three very hard hikes that the rangers try to convince you not to do (...more on that later).
 
 The first day, we did the driving tour plus the easy / moderate hikes.
 
@@ -90,7 +90,7 @@ This sign is at the start of the trail.
     <figcaption>WILDERNESS</figcaption>
 </figure>
 
-The basic idea of the hike (and all three hard hikes) is that you're taking a very steep route down into the canyon, and then coming back up that same route. The hike is less than two miles but the elevation gain is 1800ft.
+The basic idea of the hike (and all three hard hikes) is that you're taking a very steep route down into the canyon, and then coming back up that same route. The hike is less than two miles in total but the elevation gain is 1800ft.
 
 <!-- judy coming down steep decline -->
 <figure>
