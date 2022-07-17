@@ -16,18 +16,18 @@ To really hammer this point home, Colorado is apparently so scenic that people w
 
 So we reached Great Sand Dunes somewhat late (~7pm). We stayed at Oasis Campground, a nearby privately-owned camping area. Maybe we were just grumpy from a long drive, but trying to cook a late dinner here was kind of miserable because there were so many flies and mosquitos. Bad mood = no pictures from this night. 😵‍💫
 
-Before arriving we found that there was a dispersed camping site about twenty minutes south of the park, but opted for the paid campground (Oasis) because we needed potable water. After one night, the bugs soured us on Oasis, so, with a full water jug in the car, our plan was to move to the dispersed camping area tomorrow.
+Before arriving, we found that there was a dispersed camping site about twenty minutes south of the park, but opted for the paid campground (Oasis) because we needed potable water. After one night, the bugs soured us on Oasis, so, with a full water jug in the car, our plan was to move to the dispersed camping area tomorrow.
 
 ## Day 10: Stepping foot in the park 
 
 In the morning we had a few not-so-fun things we needed to take care of:
 - shower, since the Oasis campground would be our last chance til the next park
 - restock on groceries, but the nearest town is > 30 mins away
-- pack up camp and (hopefully) claim a spot in the dispersed camping area
+- pack up camp and hopefully claim a spot in the dispersed camping area, or come up with a new sleeping plan
 
-As much as this whole thing is a vacation, there are still days like these. It's kind of like spending one of your precious weekend days catching up on chores. There so much else you could be doing! (Great Sand Dunes is right there waiting for us!)
+As much as this road trip is a vacation, there are still days like these. It's kind of like spending one of your precious weekend days catching up on chores. There so much else you could be doing! (Great Sand Dunes is right there waiting for us!)
 
-This killed our morning and some of the afternoon so we were only left with a couple of hours to explore Great Sand Dunes. We were eager to walk among the dunes, but our plan for the dunes was a four-hour hike, so for today we had to choose something shorter and easier. We ended up hiking a trail in the nearby mountains called the Mosca Pass:
+This killed our morning and some of the afternoon, so we were only left with a couple of hours to explore Great Sand Dunes. We were eager to walk among the dunes, but our plan for the dunes was a four-hour hike, so for today we had to choose something shorter and easier. We ended up hiking a six-mile trail in the nearby mountains called the Mosca Pass:
 
 <!-- judy hiking the mosca pass -->
 <figure>
@@ -37,7 +37,7 @@ This killed our morning and some of the afternoon so we were only left with a co
 
 It was nice, but was kind of like any other walk through a forest, which felt lame given that the main attraction of the park was its sand. On an absolute scale, it really was a solid hike, but at this point I'm getting pretty spoiled by how unique and amazing are the views we've seen and the hikes we've done so far.
 
-That evening we expected rain, which was going to be a problem for us given that our dispersed camping area had zero facilities. Not even a table to put things on, and certainly not anything to shelter from rain when cooking. Fortunately, national parks often have numerous picnic areas, and this one happened to have some a covered one!
+That evening we expected rain, which was going to be a problem for us given that our dispersed camping area had zero facilities. Not even a table to put things on, and certainly not anything to shelter from rain when cooking. Fortunately, national parks often have numerous picnic areas, and this one happened to have a mostly-covered one!
 
 <!-- me in raincoat in picnic area -->
 <figure>
@@ -75,7 +75,7 @@ The area is located on the gently sloping hill leading up to the nearby mountain
     <figcaption>respect for the morning ritual</figcaption>
 </figure>
 
-We got started early since we wanted to be able to do this four-hour hike and then use the rest of the day to drive to Rocky Mountain National Park (another five or six hours). The hike we were planning to do was one that visits, over eight miles, the peaks of the two highest dunes in the park: High Dune and Star Dune.
+We got started early since we wanted to be able to do this four-hour hike and then use the rest of the day to drive to Rocky Mountain National Park (another five or six hours). The hike we were planning to do was one that, over eight miles, visits the peaks of the two highest dunes in the park: High Dune and Star Dune.
 
 <!-- me in desert gear at start of sand dunes -->
 <figure>
@@ -83,7 +83,7 @@ We got started early since we wanted to be able to do this four-hour hike and th
     <figcaption>dressed for the Sahara</figcaption>
 </figure>
 
-I admit I came here thinking, "this is just going to be White Sands NP again, except not white", but I was so wrong. The dunes here are SO much larger than at White Sands. As you head up the dunes, it's cool to see the nearby mountain range in the background.
+I admit I came here thinking, "this is just going to be White Sands NP again, except not white", but I was so wrong. The dunes here are _so_ much larger than at White Sands. As you head up the dunes, it's cool to see the nearby mountain range in the background.
 
 <!-- judy starting up the dunes trail -->
 <figure>
@@ -93,7 +93,7 @@ I admit I came here thinking, "this is just going to be White Sands NP again, ex
 
 Sledding down the dunes is a popular activity here, and you can rent sleds nearby. We chose not to because of a tight schedule, and in retrospect I don't think I regret it. Hiking up the dunes is NOT easy, and sledding involved repeatedly doing just that. I'll stick to snow 🥶
 
-Once you're far enough in, the surrounding greenery becomes distant and you're just surrounded by dunes. It definitely feels like you've been transported to a vast desert. There weren't many hikers venturing out this far, so much of the time we also felt alone here.
+Once you're far enough in, the surrounding greenery becomes distant and sand dunes are the only thing in sight. It really does feel like you've been transported to a vast desert. There weren't many hikers venturing out this far, so much of the time we also felt alone here.
 
 <!-- me in sand dune bowl -->
 <figure>
@@ -107,15 +107,14 @@ Once you're far enough in, the surrounding greenery becomes distant and you're j
     <figcaption>Great Sand Dunes</figcaption>
 </figure>
 
-Eight miles surrounded by sand did get a bit repetitive for _some_ members of our party but I loved it. I can't imagine being able to do a hike like this anywhere else without traveling to a real desert, and I have no plans to do that.
+Eight miles surrounded by sand did get a bit repetitive for _some_ members of our party, but I loved it. I can't imagine being able to do a hike like this anywhere else without traveling to a real desert, and I have no plans to do that.
 
-After, we packed up camp at Lake Como Road and headed off to Rocky Mountain National park. One of the cattle from the adjacent ranch came over to the fence to say goodbye!
+After, we packed up camp at Lake Como Road and headed off to Rocky Mountain National Park. One of the cattle from the adjacent ranch came over to the fence to say goodbye!
 
 <!-- cow at lake como road -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AM-JKLX-Dhd4uQn18UWZf9LaWLjnrKtfXz8Ez-9fCr-rNu8TB2x4Z8Mx3-e3pyUasGGdj2oGTzWK_qqR6oYYyZSCx5gj4oH8Ck23hqg4nP5nzvCoPH2F89EmgzDix_IABLJhsy5_NTpK1itQAzXkLjfknUpO-A=w1862-h1396-no?authuser=0">
-    <figcaption>enjoy rocky moontain!</figcaption>
+    <figcaption>have fun at rocky moontain!</figcaption>
 </figure>
-
 
 _post originally written 7/17, backdated to match reality_
