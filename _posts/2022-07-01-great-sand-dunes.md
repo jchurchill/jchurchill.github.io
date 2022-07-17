@@ -3,11 +3,29 @@ title: "Great Sand Dunes NP, CO"
 author: Justin Churchill
 ---
 
+## Day 9: Getting to Great Sand Dunes
+Reaching Great Sand Dunes from Black Canyon of the Gunnison ended up being quite a slog because of a closed highway. Instead of being a five-hour drive, it became six. Fortunately we had beautiful Colorado to stare at 😯
+
+To really hammer this point home, Colorado is apparently so scenic that people will pay to do a part of the drive we did, in a caravan of BMW convertibles.
+
 <!-- BMW convertible line -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AM-JKLVhuHAqzhU73uj1bhHySZhwfBYw4IDh9Am9QrcqJvc59NTA22vgCgt83dZRwqCO6WbWJSwQpZfsK2k3qb9lmI8FqWyi61ycC1ap0h8fg0BaK4pQrQKo9SP08F3rjOw9fCid5Dkf9XnS3kUzRch92UD1mg=w1862-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>not so great when you're the one stuck behind it though</figcaption>
 </figure>
+
+So we reached Great Sand Dunes somewhat late (~7pm). We stayed at Oasis Campground, a nearby privately-owned camping area. Maybe we were just grumpy from a long drive, but trying to cook a late dinner here was kind of miserable because there were so many flies and mosquitos. Bad mood = no pictures from this night. 😵‍💫
+
+Before arriving we found that there was a dispersed camping site about 20 minutes south of the park, but opted for the paid campground because we needed potable water. After one night though, the bugs soured us on it, so, with a full water jug in the car, our plan was to move to the dispersed camping area tomorrow.
+
+## Day 10: Stepping foot in the park 
+
+In the morning we had a few not-so-fun things we needed to take care of:
+- shower, since the Oasis campground would be our last chance til the next park
+- restock on groceries, but the nearest town is > 30 mins away
+- pack up camp and (hopefully) claim a spot in the dispersed camping area
+
+As much as this whole thing is a vacation, there are still days like these. It's kind of like spending one of your precious weekend days catching up on chores. There so much else you could be doing, but you just have to deal with it.
 
 <!-- judy hiking the mosca pass -->
 <figure>
