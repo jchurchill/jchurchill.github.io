@@ -3,55 +3,67 @@ title: "Rocky Mountain NP, CO"
 author: Justin Churchill
 ---
 
-## title
-xcxc
-
+## Day 11: Arrival at Rocky Mountain
 <!-- double rainbow -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AM-JKLXnN2t8wRxelI3F9r9s6IyojsmKRF-imyfP-b871Vp2T1L3xhhcTrcoP_Aff8Asl-1fhUL5WUMkw1yAD7N5grLmmyiATY04tFg_5BY96vpkfC3EW7CbMDpV5skRFj_k_mqHnxXBNfYvps5efq3zCckbew=w1862-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>welcome 🌈🌈</figcaption>
 </figure>
 
+Spontaneous thunderstorms on the way north from Great Sand Dunes gave us a nice double rainbow to look at for a ~20 minute stretch. It was pretty wild – people were pulling over to take pictures. A continuation of the mountain weather we'd come to love.
+
+We got to the campground pretty late and so as usual got right to setting up camp and cooking dinner. This time we resorted to ramen. We normally try to plan meals with a green veggie and lots of protein, but sometimes you just gotta give in and make shin.
 
 <!-- making ramen -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AM-JKLVljaOESgbvJWqRnzND06rDfrWe0dPjduBajf7YkuRvUlz_fxr-6lEW070KFRsBpdaKkc9w_OQagoHRfGsVdUFryQC-XBE7AsvLy2rx7cPK3HE4z59USGpqTgqHQWfGKiQrlrqb6sav5Di2_Xl_eufLhA=w1862-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>_someone_ was excited about this</figcaption>
 </figure>
 
+## Day 12: Getting our feet wet (figuratively) at Mills Lake
+
+Rocky Mountain would be our longest stay yet: six nights. This was a relief, because all the driving was really starting to get exhausting. Because we book campgrounds last minute, we rarely get large blocks of consecutive days and instead end up moving from site to site every one to two days. It's okay though, the change of scenery is a positive.
+
+The beauty of our first site became apparent in the morning 🌄
 
 <!-- first campground at glacier basin -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AM-JKLVcpKZWdJPE0hsp5C7nWEEdNG5PM-TM_48EJ8sDExBoo17dSXnBRwiiwfuPt_FAZBhiQxda3v-n2ygRBrbSCAO5YxlPmyC74BZhnJ3u3ZAkBembDeROvgvcYpWZHBG-MIVHLCJt-LdqUgK7nsmVfOWosQ=w1862-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>Glacier Basin, morning 1</figcaption>
 </figure>
+
+Since we did a more strenuous hike yesterday we wanted to fill our first full day at Rocky Mountain with something a little easier (i.e., a moderate on AllTrails). We chose to hike up to [Mills Lake](https://www.alltrails.com/trail/us/colorado/mills-lake-via-glacier-gorge-trail?u=m). Our first glacial lake of the trip!
 
 <!-- standing on rock at mills lake of first hike -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AM-JKLVsFlOg8fmMmDjITm2GkuSzIIOEj5acLSG7qKsECAw9SOLCdvw7H6BjtMZ_QAv0_ia4CakqwEAprvb1weYkob1qCcj6sN2TgDbLSWkDjUGgIe4ub92TCkZ8Lj5xKm9ESVsRI0eApWiNNZvuTKCraqqoxQ=w1862-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>easiest hike of my life</figcaption>
 </figure>
-
-
 
 <!-- mills lake -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AM-JKLXAepeidH3EGxmCDUwnhL63ebMRCp5Y_oIzVRuQxBRQfLplakGfXYPOUWD3ozHtwyweSX8Jg4O5K8JaME4C91r0uY7WQjkJKe94MxPqtbXn_oe070TYXFkVX0TcAB2S1OYvO_6loZF6jKmhtNxCZ9PP7w=w1862-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>Mills Lake</figcaption>
 </figure>
 
+I was very tempted to do the hard extension to Black Lake but told myself I'd go extra hard tomorrow 💪
+
+Also, this was the first park where we started getting lots of warnings about the wildlife you might encounter and the danger it poses to you. I never know how seriously to take these warnings though – am I the intended audience, or is it more the sort of person who tries to pet a bear?
+
+Seeing signs like this helped clarify the specific risks. I just had to chuckle at this one. 
 
 <!-- habituated mountain goat sign -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AM-JKLU28cM-nXsyPoNfIZgxLG5G1m6YciFWKU7jbVUVBMm8N3PDA5YIFs5FRK1p5ysaZSE_St88KtdQlEdxt7Q-tg-4wnaQWQbykttI3TS5K46Bl73DzHlvHn2oG9in0VlPsk4gU9FJF3X7__IqP9ysQzy-Xg=w1862-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>DANGER but he looks so sweet in that picture</figcaption>
 </figure>
 
+We never did find the habituated mountain goat but we did see an elk right near the end! These guys are all over Rocky Mountain National Park; we ended up seeing about one every day.
 
 <!-- elk at end of mills lake -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AM-JKLVewhSwuAl7mNzC7GNW1HH6lJK8hyM-Yn1GVf1SDo44DR5XOkud_jM-820310B-ITNZamP4VosdKJis9pNsVbZNgottsyoWQEX_3Xq0I2JiQSzkdALf2QtOKI2Z46Z-MO-6UirOoastlyvnvBweyw10Ww=w1862-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>keeping 100 ft away</figcaption>
 </figure>
 
 
@@ -222,3 +234,5 @@ xcxc
     <img src="https://lh3.googleusercontent.com/pw/AM-JKLUaAx_WTXlr0k9NcEiUBsRHDbsX5dDE6DRJchaKKBEAxT1dnJo8UkSddMyPQgfCXeLbXgtrV9Kh3bWUoXbRocgusGnqwAckq2oM4C3Eg6k6nFUuOml9aITMbN-tNgFV_fVG9FVcecQI22rAnoG1nHzPEg=w1420-h1267-no?authuser=0">
     <figcaption>xcxc</figcaption>
 </figure>
+
+_post originally written 7/23, backdated to match reality_
