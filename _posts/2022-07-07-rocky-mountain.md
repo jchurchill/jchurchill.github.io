@@ -124,7 +124,7 @@ On the way home we took the public transit back to camp. One elk a day, as promi
 
 ## Day 14: Fourth of July
 
-This was the morning we had to change campsites in the park. The new ground was called Moraine Park. Very pretty!
+This was the morning we had to change campsites in the park. The new ground was called Moraine Park. Very pretty! (Edit: Oops, this is actually a pic of our second site in Glacier Basin. Whatever... it's all pretty!)
 
 <!-- moraine park campground -->
 <figure>
