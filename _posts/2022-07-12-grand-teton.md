@@ -91,18 +91,18 @@ Anyway, the steep scramble up to Delta Lake was really fun, and then the lake it
     <figcaption>friendly marmot who wanted our lunch</figcaption>
 </figure>
 
-After this we drove to our next campground in the northern part of the park, Coulter Bay. Once we set up camp and got some food in our stomachs we took a little evening stroll at the rocky shore near the bay, which is part of Jackson Lake. So pretty!
+After this we drove to our next campground in the northern part of the park, Colter Bay. Once we set up camp and got some food in our stomachs we took a little evening stroll at the rocky shore near the bay, which is part of Jackson Lake. So pretty!
 
-<!-- coulter bay rock beach in evening -->
+<!-- colter bay rock beach in evening -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AM-JKLVawrNZES3Xwk8663olBjlcr7sNJIx0BOntVk7QUMZLqogg2hLDbCvl_6E6b1g29fP8pLYmi2j_-tpm-yqZV9vi6rRQ1ltJ72a2jByZqGSqDTMEVCMMfqLAJ0rblgYItvNU6O1r6MybtLs_Bf9NGnyENA=w1862-h1396-no?authuser=0">
-    <figcaption>Coulter Bay lake shore around 8pm</figcaption>
+    <figcaption>Colter Bay lake shore around 8pm</figcaption>
 </figure>
 
 
 ## Day 20: Swimming in String Lake
 
-Since Delta lake was relatively strenuous and we planned to do another hard hike tomorrow, we made this one a rest day.
+Since Delta Lake was relatively strenuous and we planned to do another hard hike tomorrow, we made this one a rest day.
 
 This morning we also moved to our spot in Jenny Lake campground, in the central area of the park. (All the back and forth is because we can never get optimal camgrounds when booking last minute.)
 
