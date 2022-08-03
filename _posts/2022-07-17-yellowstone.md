@@ -5,7 +5,7 @@ author: Justin Churchill
 
 Yellowstone: America's first, largest, and most frequently visited national park, known for its various geothermal features and its ~~murderous~~ numerous bison. As our guide book says, rather dramatically, _"Touch it. Smell it. Feel it. It is Yellowstone."_
 
-And despite the historic flooding and subsequet damage that occurred earlier this year, it wasn't closed when we got there! Only certain roads were closed: the northern and eastern routes out of the park, which at worst just reduced some of our hiking options.
+And despite the historic flooding and subsequent damage that occurred in June this year, the park wasn't closed when we got there! Only certain roads were closed: the northern and eastern routes out of the park, which at worst just reduced some of our hiking options.
 
 ## Day 22: West Thumb Basin
 
@@ -19,18 +19,18 @@ Our home base for the entire five days would be in Canyon Village, which is near
     <figcaption>very hot springs in West Thumb</figcaption>
 </figure>
 
-In Yellowstone at least, the geothermal activity tends to be apparent in clusters, resulting in various kinds of colorful pools and interesting structures. West Thumb Geyser Basin is one of those clusters, adjacent to Yellowstone Lake.
-
-<!-- pool by yellowstone lake in west thumb -->
-<figure>
-    <img src="https://lh3.googleusercontent.com/pw/AL9nZEXAsnGDv57TpWJ8i1UsFCh337lzbZ-KkbkgH96gezdi9uUOufocMJ2NnxDas_XZMqgtw6NtaUE1V3pEtVb0t06szxvrN2Gbf_5FyMRlD8DKPHlHv2FUxMEmLy_3Cp0hR8QoBQtayH2ZK4B96XbDZCB22A=w1862-h1396-no?authuser=0">
-    <figcaption>I wonder how the lake fish feel about this</figcaption>
-</figure>
+In Yellowstone at least, the geothermal activity at the surface tends to appear in clusters, resulting in various kinds of colorful pools and interesting structures. West Thumb Geyser Basin is one of those clusters, adjacent to Yellowstone Lake.
 
 <!-- bubbling mud pit at west thumb -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEUmhH2-R6dsDbKS2VAWZW0r9xRx_uThiKJjXskcfLJKSt8G8hvVvS3jLJfJTdZcauUEbniqzkaS6K1B_Uyy-I9BY7BsiLYXgtD6kUvk5bA_JKHPWF3KJt4d-v301aUL9e630qOIkvQ7eMMHruB6zw4dAQ=w1862-h1396-no?authuser=0">
     <figcaption>bubbling mud pit</figcaption>
+</figure>
+
+<!-- pool by yellowstone lake in west thumb -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEXAsnGDv57TpWJ8i1UsFCh337lzbZ-KkbkgH96gezdi9uUOufocMJ2NnxDas_XZMqgtw6NtaUE1V3pEtVb0t06szxvrN2Gbf_5FyMRlD8DKPHlHv2FUxMEmLy_3Cp0hR8QoBQtayH2ZK4B96XbDZCB22A=w1862-h1396-no?authuser=0">
+    <figcaption>I wonder how the lake fish feel about this</figcaption>
 </figure>
 
 West Thumb is definitely not the most spectacular group of geothermal features, but it was a good introduction for our first day here. These pics are only a small sample of what there was to see.
@@ -133,7 +133,7 @@ We had previously seen the beehive geyser from afar, and it just looked like an 
     <figcaption>mini geyser next to beehive geyser? or what?</figcaption>
 </figure>
 
-It turns out that what we were seeing was the beehive geyser's "indicator", which erupts just minutes prior to the nearby bigger geyser's eruption. We had no idea at the time and walked right past it. When it started going off, we came back!
+It turns out that what we were seeing was the beehive geyser's "indicator", which erupts just minutes prior to the nearby bigger geyser's eruption. We had no idea at the time and walked right past it. When it started really going off, we had to come back!
 
 <!-- beehive going crazy -->
 <figure>
@@ -179,91 +179,110 @@ To top off the day's activities we drove up the road a bit to see the Grand Pris
     <figcaption>congrats! you are the 100,000,000th visitor to this site!</figcaption>
 </figure>
 
-## Day 25: Yellowstone Canyon
+## Day 25: Yellowstone Grand Canyon
 
-
+Today we explored the area adjacent to our campground: the Yellowstone Grand Canyon. We combined a couple of routes from AllTrails ([North rim](https://www.alltrails.com/trail/us/wyoming/yellowstone-falls-crystal-falls-and-inspiration-point-via-north-rim-trail), [South rim](https://www.alltrails.com/trail/us/wyoming/canyon-rim-south-trail-to-artist-point)) for a little more than 10 miles of hiking that wraps around both sides of the canyon and hits a couple of spots with some pretty incredible views.
 
 <!-- steamy canyon walls in yellowstone canyon -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEWkrhS6VczD5s6sIdDdzLqAKj6nviXn2tqjS8NPLKdHdZNPHKxGPKmjqiiNUEfrtEqmOrtYF8BJHGYSaP0UgOtJ-FTf8dbo8RbNLeTk0POq3HzTEXWrZj0kPzSHw3E7VX3Gj_j7YGBFAgnufQZv2vEq9A=w1862-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
-</figure>
-
-<!-- marmot trio -->
-<figure>
-    <img src="https://lh3.googleusercontent.com/pw/AL9nZEW80VcsHsENBda-kjZ5ceMw80Roqc6n809mkE1mddcsR3wTJMYqpuTPzR5w_btyvz1Qz7kzaZfXnqUaGpEgfy4CO9z8kAhVOHuAWtJZmv6QZxd3sPjZAJfCYykcrAwQglb1z0JQ5--7sI3cUfTsDi87dQ=w1862-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>steamy canyon walls from the geothermal heat</figcaption>
 </figure>
 
 <!-- picturesque yellowstone canyon falls -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEUXSzJLmOXi8z0hi3G22V_mnESAaVvM7NNamkh0jaCGnr3l2HQyjqee3C0Jq62WV9WfvLZKTGAQtpM3qAU3mCWqNEpgIgbZ3F6Zp6l_5Mku2kMXxnhvqwnPpC8JYT8ZdmkLJp24uWbVw2IP-BZpMxUt1w=w1862-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>this looks like a painting to me</figcaption>
 </figure>
+
+<!-- marmot trio -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEW80VcsHsENBda-kjZ5ceMw80Roqc6n809mkE1mddcsR3wTJMYqpuTPzR5w_btyvz1Qz7kzaZfXnqUaGpEgfy4CO9z8kAhVOHuAWtJZmv6QZxd3sPjZAJfCYykcrAwQglb1z0JQ5--7sI3cUfTsDi87dQ=w1862-h1396-no?authuser=0">
+    <figcaption>larry, curly, and moe</figcaption>
+</figure>
+
+We were done with this by 2:30 and the rest of the day was a bit slow due to bad weather. We told ourselves that buying chili cheese fries from the snack bar was justified so that we could have a seat inside away from the thunderstorm. Even once we went back to camp, the rain turned into hail, and we had to just... sit in the car for a while. You win some, you lose some.
+
+## Day 26: A Final Hiking Hurrah
+
+While we had certainly been active over the last few days, the hikes we were doing were closer to walks. No summit, no challenging ascent, and lots of casual tourists. And despite the misery of the first hike, we knew Yellowstone must have more to offer!
+
+Our plan was to do two short hikes in one day: [Mount Washburn](https://www.alltrails.com/trail/us/wyoming/dunraven-pass-to-mt-washburn-trail) (6.8 mi, 1400 ft gain) and [Avalanche Peak](https://www.alltrails.com/trail/us/wyoming/avalanche-peak) (4.5 mi, 2100 ft gain).
+
+They were great! I highly recommend them to escape the crowds for a bit and add some fun hiking to your Yellowstone trip 🙂
+
+### Mount Washburn
 
 <!-- mountain goat on washburn trail -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEWGRUgBXn7unBBN81wGFL1J_N7EDMHGwEuDKFO-DnEF16hdo5QO99aeOis7Ew_I0JR9qycAUqq6PBnG4sx8gAbljL2dDEriAzCqfuuLGqf3OqndiNfv3NoHszQXI_U3KFEBp6tED1Bka1JQhRvwdr4Z3g=w1048-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>posing mountain goat we encountered on the way up</figcaption>
 </figure>
 
 <!-- judy and me at peak of washburn -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEX3ZYEtpwNNcCOs0Mw7NQXamTj7XflLKauN5x7wC4Zc-uGEE3YUkEXiWto9nmhOz2LZOZz9jgbIVQeLC7JvwJmBi7dVt4AU2qTt082D8JQMCBVrzKdO8wagYpV9GhHK9BshkQU6trJ-fGWpZv2EZ99rSg=w1862-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>reached the top!</figcaption>
 </figure>
 
 <!-- people on ridge up to washburn with nice long mountain views -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEWudPT-5lsSS3nAP0D4AZG-8DN2MMB14v_ga_8OFZEmqgLlxoyhodow057UB6DMigQIzn_81T2-s5yiDFoEdPDF4FPAVk0vAluStUXreob6HkbuocIsFuk7odz3ORXXDBnl6qHATQ_F-V9Rq8_sEs5HwQ=w1862-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>great views looking back down at the trail</figcaption>
 </figure>
 
 <!-- mountain goat family (mom and child) -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEXxEU0Wg6FNCIE2zvlqr_V9qgIJJWxrWlwPZn_h9J3rxHUyuZD6q1gjsYuURC803AdkZivmu416YsrA1T5J0mCTcySwWvqsCcNCJy_KIYqnVqFN01e6b75Y_oiI2rYtXzgaF_txR5QAWWD95U_kwcDl7g=w1048-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>mom and baby goat showing off their climbing skills</figcaption>
+</figure>
+
+### Avalanche Peak
+
+This one was pretty steep! The scree at the top was a bit of a challenge, both going up and down.
+
+<!-- judy hiking along ridge of avalanche peak -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEUByPbgsTtYNF4aAZZAwZpMZ_zLsGNs86R-5uExXbI6u2swXjWkbZv2_qOclx5TrUX2zT5bx9qaEpJyotb_27qyKSBz4ptm-cbEN3JEkowadMhGaVbsLnLX7VB7fz4cqajPpjNyN2vCLnZ2WINn2TATHA=w1048-h1396-no?authuser=0">
+    <figcaption>nearly at the top</figcaption>
 </figure>
 
 <!-- chipmunk with carrot behind wind wall on avalanche peak -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEWsKHC3jaRm7P4iwsKerZRGLOHC4_HqYhgOW4m5DZMY4dBw9OZjjnar0n7cL4BSxDCtv48b4q5QbrHkurKwHmgVlDHLFGnwSFQLizZ14WDkqEEGpG3bJ_1rgNCe4dr_BBhkxKDhfHcKF7saJjTFWLeI_Q=w1862-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>similar to how I looked when I ate lunch at the top</figcaption>
 </figure>
 
 <!-- mountain views from avalanche peak -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEVN8D2P2OW214LNaIm_fdpSX1BQyHk7mxqiWt27CKuSAM6mGRs6wRd-zZ689JLRmdVBvijdMgBerupSdT2CIYN-Qn1y1hfuap5t5ynWsA394_kUj9R3MSQstBeZC3mbBF_NwBfZijayFIYE4lKeRny3uA=w1862-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>views from the peak</figcaption>
 </figure>
 
-<!-- judy hiking along ridge of avalanche peak -->
-<figure>
-    <img src="https://lh3.googleusercontent.com/pw/AL9nZEUByPbgsTtYNF4aAZZAwZpMZ_zLsGNs86R-5uExXbI6u2swXjWkbZv2_qOclx5TrUX2zT5bx9qaEpJyotb_27qyKSBz4ptm-cbEN3JEkowadMhGaVbsLnLX7VB7fz4cqajPpjNyN2vCLnZ2WINn2TATHA=w1048-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
-</figure>
+This was actually a great deal of hiking in one day! Across both we had done 11.3 mi and 3500 ft gain. At this point for us, that's a lot. (Foreshadowing: this would be a "standard" hike by the time we're in Canada...)
+
+## Day 27: Final sights, then off to Glacier
+
+To exit Yellowstone and head towards Glacier, we had to pass by some interesting areas we had previously ignored. Since we had time, we stopped at some!
 
 <!-- dragon's mouth -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEUR8CvRCXluMTYzN80ra0bNnHroAXoZwxrzuaop-EUFgcqRro0KoI7MSVtA8_LmACWhd5CPudKixrtyniYXN7c0eSeLqbZlD3IVeC8XeZwM8hx896r4g9IPtpRactg1ImWSwrwbNTvfc_MT-zLY_PdkHw=w1048-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>"dragon's mouth": steam constantly being ejected from cave</figcaption>
 </figure>
 
 <!-- violently bubbling cauldron -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEVpy9JJPAL69MnXbp3MvjhKMY6mk1Jnc4YQn0AdAYguvLr0ufeXHGhjmdspX9qYB_7Bdgjy1mt_qqcSjJiapVtrZAoErpOJ05vHcr5Ke_LPk4NtR3Izw4DaF0maDUoJn9mFY2XS6z1GWYLtRoO85ni4vw=w1862-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>one of several violently bubbling cauldrons</figcaption>
 </figure>
 
-Oh and, it wouldn't be a trip to Yellowstone if we didn't get a shot of a Bison from our car.
+Oh and, it wouldn't be a trip to Yellowstone if we didn't get a shot of a Bison from our car. (Side note: the traffic jams people would cause just to take pictures of these drove me _nuts_)
 
 <!-- roadside bison -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEUByriy2Pf7KkVvI4cL5NDacKfvG8d5E1cqDjBrp0ceolY_QVK2m3S87sbkl2tQ0iwJ55Zqq5r4dVGMxJysGcvabkJrhsnCtwxca7C5MGAhGCYJzxMIExvs8hMT3031Yb06KIXqI9IH-KZPy71Ij6y-Qw=w1862-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>just like SF's golden gate park expect there's NO FENCE 😮</figcaption>
 </figure>
-
-
-
 
 _post originally written 8/2, backdated to match reality_
