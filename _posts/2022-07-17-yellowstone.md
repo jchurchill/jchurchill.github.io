@@ -46,7 +46,7 @@ Well, it sucked. Mostly because the mosquitos came in swarms and were relentless
 <!-- picture at bridge -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEVjnPhq6VJkmlpezNCufdnexs36zfTfJ2N6e2t7f2gdGAWizgqIRqo4z91vJdEjncU9_HnJRvr4jqtf2QxVVP51tdGYSlcfhLJooWNE0BqKyEnnTsboneucyjtei_NCTqryeJHe4maSkTd6jV8CLL2D3Q=w1048-h1396-no?authuser=0">
-    <figcaption>trying to pose for a pic on this bridge, but the bugs were actively biting</figcaption>
+    <figcaption>strained smile and pose for a pic on this bridge; the bugs actively biting</figcaption>
 </figure>
 
 So back in the car we went to see the rest of the northern half of Yellowstone's figure-eight. It got a lot better from here.
@@ -82,7 +82,7 @@ What makes Mammoth Hot Springs unique are its colorful ledges formed from silica
 <!-- mammoth hot springs 2 -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEU14tkbB9uhk1uiox4kIV4uEhNvaTOqCOj4xubnwNlS4bfLhqG8qwl_Skp5pXEA6IG43lmGnSptuHM7RRf5VVGt4Gu4J1Hg14e7l-LCt9fkotXSgYYTO4PpD9pAUj8FbSpf8Z8gC3ELqye_6IV3wi1VZw=w1862-h1396-no?authuser=0">
-    <figcaption>from the top</figcaption>
+    <figcaption>same, from the top</figcaption>
 </figure>
 
 Driving back towards camp, there were a few more pullouts to check out. One of the more interesting ones was the rock structure at Sheepeater Cliff: 
@@ -98,62 +98,90 @@ Driving back towards camp, there were a few more pullouts to check out. One of t
 <!-- old faithful from observation point -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEU5NCWKpxnRXJ9ioPs7-UHrVEwpFFW4SCzYVCSM_KcRZ8YyU_w1geK1CInTkm3zFksfVaP-B1roYR-T93TDIvGm0RDXVOxTaSL3yrAF8s8_IvVdfnb7NHTMZXXuwJlysLWYLkUUYoVNp1LEt_0Ynk_Ecw=w1862-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>old faithful, from observation point</figcaption>
 </figure>
+
+Today was the day we'd visit the southwest portion of Yellowstone, where several geyser basins are situated. Upper Geyser Basin is the largest attraction, and is home to Old Faithful. The geyser is so called because its eruptions are so predictable.
+
+Eruptions happen every 60-90 minutes, and the visitor center posts the next expected eruption time. They also add "+/- 10 minutes" to their estimate, but for the first eruption we awaited, they were spot on. For that one we hiked up a short distance to observation point to view it from above.
+
+After, we took a stroll throughout the rest of Upper Geyser Basin; there are so many interesting little springs and other geysers accompanying Old Faithful right nearby.
 
 <!-- interesting blue pool in upper geyser basin -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEW5i7k2pLcewG1faRDxn3E1sC3xohZwBm0eb5_JyHV6oN3PnZ2WIR0axQig6KPqS3ojOeM19xaRj70AAEp-26Z2HCFKa0bA4TmQ9vSZN7Kp52nIQ73akFG1Ry6qHL2o9e2b54izv1cbUWEYwJND2GRIlQ=s1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>blue star geyser</figcaption>
 </figure>
+
+In the time it took us to tour some of the springs and geysers nearby, Old Faithful was ready to erupt again. We didn't need to know the predicted time – we could tell by the size of the crowd gathered around it when it was close.
+
+This time we were right next to it!
 
 <!-- old faithful from closer up -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEX58u-5Zqx1tabli0mkIaLilArO9ctKrCBNnhB3xf4yxUHy9ljBpTZlOezsKfmhwhLXx3b_nllef0leQ3Ad1Ye1lJJj1kQ6HuPa9ps5MNAm57Q-ZdmixnuHwjxNaaBwJIeHxQSYwOFj28Jb-FCh5e5B0A=w1860-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>we even got a little of its spray</figcaption>
 </figure>
+
+We still had at least 2/3 of the rest of the area to see, so we kept going. The next interesting stop was the beehive geyser. A note about the term "geyser": it just means that it has a behavior corresponding to the release of a pressure buildup, regardless of whether that buildup is big or small, or how often it is released.
+
+We had previously seen the beehive geyser from afar, and it just looked like an inactive little mound in the ground. This time when we passed it, we saw a little steam jet coming from the ground, and weirdly it wasn't even from the mound, but instead right in front of it. "That's lame," we thought, "I would have expected the mound to be where the geyser jet is."
 
 <!-- beehive indicator -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEUYeDor-duX3t9UUBCr2y9OXq3GK_crw2qFALx_XzHiejhQwGk65TbtNEZDY363Hk3pll5VMelgNPSok_Yyg4VTdJeHGaLtAscT3umbYy0N2Of7ihgImq0QqofgjkRqDMNiyVusosrhyekQ0AxYfDNEtA=w1862-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>mini geyser next to beehive geyser? or what?</figcaption>
 </figure>
+
+It turns out that what we were seeing was the beehive geyser's "indicator", which erupts just minutes prior to the nearby bigger geyser's eruption. We had no idea at the time and walked right past it. When it started going off, we came back!
 
 <!-- beehive going crazy -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEUG8jD0w43bZCdz_rE1gm5x-1bpPhwDnBWiTNVEaaUko1SS7ohf0HTUPKigU5-7Fawev5RctiTpTx_gZdYHaCYuFeH0WiaibfcfNXeDNLb5u1nG2b6qBflbcJ9IbrgFKSN6n4eUGSMn-KhAc3vYf5jR1Q=w1860-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>way cooler than old faithful</figcaption>
 </figure>
+
+Apparently this geyser erupts every 1-5 days and is very difficult to predict in advance (besides the indicator going off), so this was a special treat!
+
+Anyway, here are a few more sights from Upper Geyser Basin as we continued on. Sometimes the geysers and springs had names that matched some attribute of theirs, but you could definitely tell they were running out of ideas for some. Like, "spiteful geyser"? (I don't have a picture, but what are you expecting to see?)
 
 <!-- another interesting blue pool in upper geyser basin -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEV29NpwpXd-_z6r-sxqbnO8RYBYPg8vaV_tLkkDbt17el_0Fb8429MjONRE-Dt4EhyWK1o2z3uBdu5US00TBxxXaieHlKc_VJ85ca9RlYq6-TluevRaS9HdKZfV2uenruR_dcjZ6Kvp2eeiEV4-xGfrSw=w1862-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
-</figure>
-
-<!-- reflective watery surface with grass in upper geyser basin -->
-<figure>
-    <img src="https://lh3.googleusercontent.com/pw/AL9nZEWfXdvk8MZJfxF_hXttqYZ99VzTjaHTjRfezG_i0gF1fil5sQAv97CbTojFWXYXJt12VK3nOmvFys8K0JgUNrYss-hrZB-MhK1YRvEKsavfDSvMZ1PhC4cAR5KEGhEvOfR0bDLsKCAv7iE4lFsV7Ne2RQ=w1862-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>heart spring</figcaption>
 </figure>
 
 <!-- morning glory pool -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEUek4dA8nY1YUsQHzu3sH3ePv5ZLXbDtXVzjftrfYGwwb8S4dmzrB7pc56vMxlOdyFyILsKY9HO0quvLXSVzhcReYbzR3pstswG1UhIy2CiDS3No43crjDMXtLZZdbukRcC_GqeuYYJfDG06LC30uxjIQ=w1862-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>morning glory pool</figcaption>
 </figure>
 
 <!-- eruption predictions (for castle geyser) -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEU0lHslwqMuyZyIuwXyjZAZUkps216F3Mr5Np8b46te2V6jSPy1tto2AGZWonAgbOyfdCfs7U7rdqUjo3oreI4ZutqVuLJEE4EQmwkpqjdPdGF7DiwtESWVTQ8eb_1yhX-DNx6U8B6RqmIGP6D5xTpWFA=w1862-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>castle geyser + eruption prediction (no, we were not waiting around for this one)</figcaption>
 </figure>
+
+<!-- reflective watery surface with grass in upper geyser basin -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEWfXdvk8MZJfxF_hXttqYZ99VzTjaHTjRfezG_i0gF1fil5sQAv97CbTojFWXYXJt12VK3nOmvFys8K0JgUNrYss-hrZB-MhK1YRvEKsavfDSvMZ1PhC4cAR5KEGhEvOfR0bDLsKCAv7iE4lFsV7Ne2RQ=w1862-h1396-no?authuser=0">
+    <figcaption>flora capable of growing in a hot spring</figcaption>
+</figure>
+
+Also, during our walk on the boardwalk that winds around Upper Geyser Basin, after turning a corner we encountered a bison roaming just ~30 feet away. Bison are dangerous; [a woman was killed just this month, right in the same area we were in](https://www.nps.gov/yell/learn/news/220531.htm), when she got too close. We hid and waited for it to get farther, then dashed by. No pics because we moved with haste 😬
+
+To top off the day's activities we drove up the road a bit to see the Grand Prismatic Spring, another iconic Yellowstone sight: 
 
 <!-- iconic grand prismatic spring -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEWGiUtjkA6-GWopXlOYjokvqxJxsAuesW5Pjb6sP6A1ugR2pX5u6Nle0VewOntzFRDpmIzlyHY5_gA29zz0zJoXQyvtil8sGqEVjoNcCX0RDB8GfVHy-TUL3lG4Xzt4N9ub-xTAx_Iw6jAh2wHZIEQNyg=w1862-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>congrats! you are the 100,000,000th visitor to this site!</figcaption>
 </figure>
+
+## Day 25: Yellowstone Canyon
+
+
 
 <!-- steamy canyon walls in yellowstone canyon -->
 <figure>
