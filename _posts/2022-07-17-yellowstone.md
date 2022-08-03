@@ -261,11 +261,9 @@ This one was pretty steep! The scree at the top was a bit of a challenge, both g
 
 This was actually a great deal of hiking in one day! Across both we had done 11.3 mi and 3500 ft gain. At this point for us, that's a lot. (Foreshadowing: this would be a "standard" hike by the time we're in Canada...)
 
-## Day 27: Final sights, then off to Glacier
+On the way home from the second hike, we passed by a thermal area called Mud Volcano that we didn't get to check out yet. Definitely worth the 30-min stop!
 
-To exit Yellowstone and head towards Glacier, we had to pass by some interesting areas we had previously ignored. Since we had time, we stopped at some!
-
-<!-- dragon's mouth -->
+ <!-- dragon's mouth -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEUR8CvRCXluMTYzN80ra0bNnHroAXoZwxrzuaop-EUFgcqRro0KoI7MSVtA8_LmACWhd5CPudKixrtyniYXN7c0eSeLqbZlD3IVeC8XeZwM8hx896r4g9IPtpRactg1ImWSwrwbNTvfc_MT-zLY_PdkHw=w1048-h1396-no?authuser=0">
     <figcaption>"dragon's mouth": steam constantly being ejected from cave</figcaption>
@@ -276,6 +274,10 @@ To exit Yellowstone and head towards Glacier, we had to pass by some interesting
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEVpy9JJPAL69MnXbp3MvjhKMY6mk1Jnc4YQn0AdAYguvLr0ufeXHGhjmdspX9qYB_7Bdgjy1mt_qqcSjJiapVtrZAoErpOJ05vHcr5Ke_LPk4NtR3Izw4DaF0maDUoJn9mFY2XS6z1GWYLtRoO85ni4vw=w1862-h1396-no?authuser=0">
     <figcaption>one of several violently bubbling cauldrons</figcaption>
 </figure>
+
+## Day 27: Off to Glacier
+
+Next stop: Glacier National Park. But it's 6 hours away, so this day is devoted to driving.
 
 Oh and, it wouldn't be a trip to Yellowstone if we didn't get a shot of a Bison from our car. (Side note: the traffic jams people would cause just to take pictures of these drove me _nuts_)
 
