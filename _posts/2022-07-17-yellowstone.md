@@ -284,7 +284,7 @@ Oh and, it wouldn't be a trip to Yellowstone if we didn't get a shot of a Bison 
 <!-- roadside bison -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEUByriy2Pf7KkVvI4cL5NDacKfvG8d5E1cqDjBrp0ceolY_QVK2m3S87sbkl2tQ0iwJ55Zqq5r4dVGMxJysGcvabkJrhsnCtwxca7C5MGAhGCYJzxMIExvs8hMT3031Yb06KIXqI9IH-KZPy71Ij6y-Qw=w1862-h1396-no?authuser=0">
-    <figcaption>just like SF's golden gate park expect there's NO FENCE 😮</figcaption>
+    <figcaption>just like SF's golden gate park except there's NO FENCE 😮</figcaption>
 </figure>
 
 _post originally written 8/2, backdated to match reality_
