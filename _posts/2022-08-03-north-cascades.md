@@ -69,7 +69,7 @@ This meant Hidden Lake Lookout was a no-go too. 😭 We couldn't do either of th
 
 When (not if) I eventually come back to this national park, I will absolutely do both of Hidden Lake Lookout and Cascade Pass + Sahale Arm. If I happen to find myself in Seattle for some reason, this park is only a little more than a two hour drive away. 🚐
 
-## Day 44: Bellevue, then Rainier
+## Day 44: No Scenic View, Just Bellevue
 <!-- 8/3, seattle area -->
 
 We drove to Bellevue (just outside Seattle) to take care of standard chores like groceries and laundry. We finally had access to copious good asian food so we took advantage of that for both lunch and dinner. I also got a desprately-needed haircut.
