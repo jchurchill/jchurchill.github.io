@@ -1,0 +1,275 @@
+---
+title: "Mount Rainier NP"
+author: Justin Churchill
+---
+xcxc intro
+
+## Day 45: xcxc
+<!-- 8/4 comet falls to mildred point -->
+
+<!-- tent in forest campsite among tall trees -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEUU2nFJNGll-eC9IUrMJ6TOt_5yWlZc8Ve-49tIlWA6_ff5V10OpiO1AGvz-t-5QFGeF2GuYTjsYltk88ah2JFDile_HqvXacyV391kl0FjHRGWyC5ADSZVP2Cr_b6RcmjUm50E3cS3w8HL1Hnx2U_NFQ=w1048-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- comet falls -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEW_w7vBWidKLrpAixYbeWvrvfCVtTnWhWAA6U37Tw5nRM95SDpq7AxRtW8MoNdRzhRLAcoDhZxVrEdmzAyXg2t5yINjc0ieL59NhZAaTKrokj50OfDN0Bs3tlXNCynjfy2W2c87tNq3q5xKdEpKXtvkZA=w1048-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- judy coming up trail as view starts to emerge -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEUCQqBWQJeBBVCf2k3gBsAdv3JZ7vj8q8UiVWYyya_xVEPZD8I3wJR5CPdKRDyVuwT2clZkqjHRD8IgEEDiZeIX3utenukr4WfPTTmgheVG69NUsfdZchpl9rMiC0nI5FuBefxkPIKAZWUubLeE8phq_A=w1862-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- judy surrounded by bear grass -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEVdv8vw5r-G4788WfQen4TEcsUKwXJ8ScbjJPpNwX0j2qMEpRwcZBXNMRCrXdmt1RmBS8zybekTISWg6114pPPHtfQW7Gwoki2eWMrWnKePt54-6fAP7nuLkx262rYdhMLctSSSn-tI8piPIqzr_23kaQ=w1862-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- judy coming up the final steep stretch of mildred point -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEWvr9mGg6Z8Px2zFYDK-dUKLOAnFNDz1PcCqWTB7oHUPQXa6bQhn4R8dEpGUIiN9CFDquSiL3fBbryMOvypeTg-zu7buGmAnlUYKIBF4n3ZZlgA9sDcL4hocJUhsDgppxnJJZPtG3kFVH7lVI4qvmFi4Q=w1862-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- me and judy with mildred point view behind us -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEULAVkP1ixcd3zXofgfB5gQwG6doZ2_wGkjyUfh7sSN54nmj93MtynG0QyWcWyVD07Ue9ihaG4AV0WxzEYQLwC1BQ-yKvSla9drM2Ygph0k0qJZo5IPXBVxZ5f5ZOO_LuPAGZ4CAKasM7D47ne6nClL8Q=w1860-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- lorax plant -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEUFQEtrOGC2QsyK7J3rBoLvrjkYnL5GDh_5CcXdeFsgeaZdMWqjH_3y8xeT32De_9WBJi_daNcxmeApPYCkSP3J2qE8LJFduyw6gI1gIuz9eWiWxsjv96Tm6EMEwDM1qKrcb9uLi71ZepDYknxFy_2N0g=w1048-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- judy straddling large dead log with comet falls behind -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEW1_oZsOu5xGTj5Ycl32yoSLM7fGxWTxZX9_kLdf-GS1oILntv4FR4NHf4m2V6DK6knCyJXUZF3xDDCAHgvOPBQAJ-fBBEjvZcS2vxB3KDHo58uhAd3FKvLn4gJYUoyK-1oR_LAE6OFwZsXT42o_1Zgkg=w1048-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- judy looking up at log-built staircase on the trail behind her -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEX0RJn-8pm3N3exvfNtuz-g8ciTsm6ivMg_C2gZSF8X6tQ3rDq022OtVelX6qIH_762rsJr0PwbOCt3skNglVHeZw9_5j9j_stjTqU4iwkZgwTPHzx2aHLMbTltnW8NREaE4JA_G6IXm72g9BfO0ekB-A=w1048-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+## Day 46: xcxc
+<!-- 8/5 skyline loop and camp muir -->
+
+<!-- ceiling / indoor architecture of paradise visitor center -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEVD6H4U_s0WNEjABk3t5jyA-SO4e8YMl_E9kt6fv7A7qBWDR7GoE4-JNT6pFkud5V5JCRP-mv_PpNE-nilDEOMuveOhZl-5VhTPxW-_Rc8C7DxxXdHiv1tTWE6lOYbpKhNeSJrunObpAGi9S8Y-rEXYFg=w1048-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- waterfall with mount rainier in the background -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEUnSk8zgV9ARC8R5sAb6XvcOYfPOqfr9xMYHc0tXwUqwcgwFz5BX0-cQUnnN9qfa0Ivl6gL0X201Iq_7VEl5TdK-JC64DHFOuNl6xJ5WQ4NOdC6EIMpthQbIbirWxFGLDBf0rmtsMt_Svfa552XGtl1Zw=w1048-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- judy walking over wavy bridge on skyline loop -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEVG06VJNsRdidM2wht6LDkhOzKOmScG-0U5hpueP1IC_dmBDqHGdEZlk0GX8ZgG4_8pNQnoM0vFE-YqtfuxMeI6_dRe04fNxpx-7fFoK4MJwr5P2vYD1bzcx0YlR3JwLJOycCVBO0SM33WLKrleZhgNwA=w1862-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- judy posing at a scenic part of skyline loop -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEWgLNHD7W7MUPfk1lAliw1NqD_RVB_PApILUZIZ8DES_4fhwnQy46xSnaKeLmA64aTxQz6t5SJxxtsZ7Z0lyTduegCWEpj45jD12_Vdrepd8qkP4GgRDaDOy6kU3fVuvuA0ZGh6lOpN5sQsfLqjUTUVeQ=w1862-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- two marmots fighting -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEXX-e5HKmvFuO0XEMb7tg65Rd7Ov9_-AFkLJGlafZEdGwLKlhmYJS06n-wzuDmqwLBrpIUfyzfVyQ8EqNg5m5Q2KDZ6DT4Gn3P-VGczvxvkxUt7OUz_hYB1AaNaxLSp37T2J0OmFuGbNxcxz-8mqkqaag=w1048-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- view at high point of skyline loop, with mount adams in the distance -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEX827qDM5Q_L4n-VvMP_GTMTdGrt26xALxgDtaXW2gevGtdf4xu3Aaohp73q73QJhD03OINORn3euqQMNUrXwByvdz9uw8bQCkGd9Ab_hRtlifcBlBA8H36W0y0DMif7vqQ94nAQrFUj4tvIe-I37jJfQ=w1862-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- me with an embarassing level of sunscreen on my face -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEWFHjjN1XvtuWfNWbRqbrqDhUTDNjBykkAuexuaace56lfdn7CvEx3XFs8zgc1wHVWnyIQlnmW92_ey1jCUcsfgVVjmv5Y8JRJUEEQmDCq2Bcxna1TAxHXX4YWx-WUYlFbJIRXraw8bhTlbm1SBSA5sDg=w1862-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- sign about crevasses on the way up to camp muir -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEVnaKDntlfKqRC3tNR5IhPAD0wKL1qGNnT6IX8g1LcYLbatgOICVYUZifkknshjN8rBMxxuA--2NCRFsQxS9CAKH1-7vsXyp88PkwtyFhBTIiU2YvxhO28lrHfcMHFkF9XfNzrmaXdQnKFjEIbcyUmNpQ=w1048-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- long steep snow trudge ahead on way up to camp muir -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEU5hrDB2mAGv7q7DMBawBclPEkaMrv7iyk7W8Y_HZxJX8jOn3j2JzGnb8xmCr7v9u8A_sQMKv3AkERSky-9CVYPtldhn0hIKrlfBKxQyQ2bZDpyL1cN3tDBRaUGT67sXrdj9xfn1B17adcPXZ7x7C-mRg=w1048-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- at camp muir, overlooking view in distance, helicopter landing -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEWTrGsdAE0psr-_z3oggnFZwg_A_VObrTOtfI50xzii7gkp-D09EOjhNjVyv5_P2z2YwUucWffH4c_CDn4W6x5BVngidNG-bGoYP1NhFD3cABjFe8O_ESfL8I7Ssb4mwIK7mpiJw9qzdiLFcYCuLXnU9A=w1862-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- me at top of camp muir, stripped of jackets and cooling off -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEXRsXan38ddLiRcYzw0DQQfk2FdHCZOhgcuS9TVx-ejKZG9JxOBQYLu0zBNjqW7pc48ayLXWRGnn-BJ3ZUB28LtxciHwvRl6ao5i2PGhtzVBY9jXywh_jObY6AtolRi-aUKI5H0eX1reul-cAd4xy-PnA=w1860-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- backpackers set up at camp muir who will go on to rainier -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEVRqUE2Hn_4u7ovxIZjRmwB8nTM_0AoHZy_-YK34pCHV7EPMytIbfNyMTmq8ad7Tv39_wHUar00fboCBiwf7gSThrzUXJFKqhzlLHQkkFS6n2C94La3dO9cqmo2Zlm-efOQDMKNydJXRtrRBrhAf9lbVQ=w1862-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- me heading back down the snowy hill, portrait mode -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEUk-pRsoY0gc8QmeRE-mWMBb2FbozKdRZ6v0eqlkN-2T4KgZSEV18x01Cjx0LhsJ_ULr2UM22f8vj6gt_JrDJozZGTlf64vu-oOKcpJrf6os-Buqg9XNgYzYC7nUOX0iQPVNxPa_Ilt5vtiwigYoH7Zhw=w1860-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- example of a snow slide carved out from lots of usage -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEWK3Uet_XKFayGgEvlpAtyGBSQT3PvhQ0Ybb_bpqKFWlcybWKb2UnYP8f1VW9GPWqYB42e9vT6OtdOqb7QQ-xN9EJkDzuTBzcG2eynY0SvqItx89bGi-4vtRHoEHMR7AAJqhWvyyHg9KW1zk5M346RNxQ=w1048-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- close up view of the side of rainier facing paradise -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEWyX8thI1s51MhoNpL0LgEt2uOsNMy3L9lY_T0y9Jlc59lf1W-zFX97EPxzuuCJcUoPcWHjYUnvHW6muU1VgU7S75YtARwN0R6XAoB0iS0uvmfJ8BKYVvK8AwoEWCr8JiczOGGPZJqRNJNzwJ6n1UF9wg=w1048-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- feet and poles while I actively slide down the ice -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEVvRFiDFqaE3s47AbFdUGtTrzmzBCpmNkZS54zsvjhWl6wssL2qwhx6ZLVtLVf9Dn86iPrc1lSxzXoHB8YBogw1nfnH0OeuiwgbRSMYmyShiNGMRW2Nkc9L5xA6XkvZ8QDdZRSURq13FcBEMXwEoQ5vWQ=w750-h1334-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+## Day 47: xcxc
+<!-- 8/6, burroughs mountain -->
+
+<!-- meadow on the way up to burroughs -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEXqorXefYGIEqYs34yBGXWzT_hI-NDcV8ivj5hnGlbIK63pn52a7Z47ivDBNzjLWYPIn5UZTqahSi6uTnsVBJOeptg1YApdu4xPiyHZ9UN3q0-SIhoUzdf8wxHexVNPi_CmBElhosqzJMK3EmKHn_Yc3A=w1862-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+
+<!-- judy on scree filled trail nearing the first summit of burroughs -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEWaMoZybipq0fnUMykUwxk1sN4476IxoexnVzzcBjFhGf5i1MQS0Ycxr1R0g5UlfF_WfBcXms18dt0dh8XM9hi19AbPgdMPs12CUt5s4nEMnimIXOmVdS-SgdzU2p5D26kLK9oUrVspPSd3bh0llW0F7A=w1862-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- same as above, but on snow this time -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEW3ra8-YKg0xaYij76OiP0E3F2JIoUolDTq_SFJ9CjFanMS3AiU1NdlcR1NbGfhrCrtjoAprvb-x__EEXRXQyxtgy7ujzHoZo3-rIo2BCqE-QPzvV6CGECkG4I6zXF6Nc8BH_SHBOnW6eVJxgvtfTkzTA=w1862-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- me at the first burroughs peak with rainier behind -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEVy7eIhMJj7Y1I3kIF2XVEuDhlPXlz3ISChyiJm3CEQFGL6M2fyfWxpoeXk3P36w3J1TUFQMY3NUJHifDgIP7CSL5ecgQdJc80FWY20_K7CqFBL2HvOImpwlwbRa0qK6HXUS7pZ35DdHiBwXGm6v_5-3g=w1862-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- judy on first burroughs peak with flat field of scree -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEXP1nNhVt_oWuIYfpLFPqBACmBEPbD7bHU3DukUCADOvuZ3YfI3oH_WBCHLxRr2yJ7llicHFjLXAKmkQv8Hr8gOT_yP2DyYQJUqUj9tboL3PE3F7ujbGx4B4d-jLXdwy06D0c1IN53WIrzUs8SiSbggSQ=w1862-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- scenic view of rainier as you descend first burroughs peak towards the next -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEVuZPLYfIIBibdYT2jb-SRwBLZZ3P4-NQh40o28sr9beUeHd8eXmV4aj7mIbxCuu4AMRHAsn8uGGJGtcreO3FwgAnUylq_Ok5MeXm66GnCqQgrcKzMlEEyJKUaTzQ_IcnM7BGmyOwQv18tRGNnBoTVNxg=w1862-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- zoomed in on details of glacier below final burroughs peak -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEU9z5wXxkg6fboroFFTIhy_y6bdUOvKibmIHj4Xmc5Yk19VnTNekDHpbQVLPslYzN8Aj0JcGXVnlql85-NSQy8dX9jNMsqCvnq3NnLBAZo9bkVtVPqm4jwxlmitGhjDS8g94n4PiOlQoBm_PIyusd_vfQ=w1862-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- judy taking a photo at last burroughs peak -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEW7WP8y1Vr_N26bcUH89xuDerTMUPbXv-GqU0X1bw-bKaQ-Z5HWixhF77BXRcfYgdojXGxiIbipL1i9METeM4HXqqflhkGsc_j59ViSURiAVCnt7dO5EZ_x1WbY0kq8W_Y2TogUDGL4sPsqs9p2qBL0AA=w1862-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- two other guys enjoying the speedy way down on the ice -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEV_ArD6Ofz1goCSd_2LhCOMHSwvydQG4RTTljALKFHg18gi_5jCOVQO4xI8DQZvWHLvRbtTCZmKXaUZbnCKeIB9dGAdkzauW88Go9voQ_CuGFUQ03NTeIN7TfzgN1IIizG0T6ADJhorxiKkhrkQGtdvnA=w1862-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- final scenic mountain view as you descend third peak -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEVW8ej8uVpNiJ-lzyIw0sB85t4racdzqjA7AnKuG0bP8wHk082Xol8c58vNOWyCK7viuFnSILBUgb2tMHRyigr17w0Sh8_SCa8nqiyI4BzMJFEN8O4353fC3lOIU6suNlWD7WYTAcbryy5NFGW0aIbmlg=w1862-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+## Day 48: xcxc
+<!-- 8/7, panhandle gap -->
+
+<!-- scenery at middle of hike as views open up -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEXCzW9R504FFe_NEYZSlVVxsEdegtfiW6TsHGQeX6914Hba15LZNMw3Dk60i_gOGc91osWuZlwR8ZZo8MHDTdhZxzyVaJ2RsyFb0geG9YUNGQPZfCl5anHuFTUKR8Wxcb_Es7-xyoDZ1bzWIqQgkkjR3g=w1862-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- glacial lake on the way up -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEWplVV11Zxch02c6M0k0JhruCvfinRF7qV8-UPIIJzt9o9L2hZy3tJOedm_7wLosjIqVl7uupCPtZxBlzu7miay7ToKQolk-a60jM4b_6ziSX0mQb5PkfqyoW6TpC8AWDvoZCX8lEh9r0WRmDuBvDyxuA=w1862-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- judy traversing another snowy trail with a steep dropoff -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEUheoqU3oiNa1FS7PFTz6QXJihMegcFAD6uiKhkuodCLPdE7uTZJ3AWKY_k44uVcPRxXK59JpH5-HdgyjFcdKgPE7Ky7sumy9Du8jAhegrLEHU8vBKq1rLfCbOg4e1AHM4ZW8o_tXBqdnjHgGamsMM8rQ=w1048-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- mount adams from panhandle gap -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEXIPjjqMMTpFjQ8e1KvEJ7tt97jHA0rmBfUQW3vEVS7sWdTXuy-f6Wd9pIwBktlNcqBIvMndU5w0DQyiNJk-iRT-X3q2H8FIIQmwsZBpsPEHLoZX6kPIY6eyC6bmSQBxTVliUEYf_Ml9u4IClJLwVPyyg=w1862-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- judy on descent, passing a large stretch of snow -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEW7juAsS2LWc15uNLw0QwdFLgJKW4dL99gMoKxYPa_4KQrVf7_7Qe7gKFcYZDUvfb1C-5Li4IZOaZgnBJMOkjgMKSaCLa81CPQyyiIe54xFVZ_FvkTPZZFtesR7VkQ1DJ_yZNbx1fv10OLsC_fs0lodEg=w1862-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+<!-- judy and me back at camp winking -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEUk9fjAh19B4tBfZo4O8FQ_nwApP050I2uLawJ7RHm1LoghlUDUihrS87lkE8fhiM7QCPy8L0OXIRakONEMt2AJdcbKdZEty6V_LUSQJ-Tkq9FqDDwJUbcd-e5gpGW8e4gvaAYGLl1o1uZqk5ydWe9-Ng=w1860-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+## Day 49: xcxc
+<!-- 8/8 -->
+
+<!-- driving over the tacoma narrows bridge -->
+<figure>
+    <img src="https://lh3.googleusercontent.com/pw/AL9nZEWg0cgq7UUYvV_RqAkrJyrgLrx3Nb9ItNsSFKvKn0Sk60bgng1oLxLClrSCdWw9CRpJLhBJzuoTVN6OERZ-up-0MyVBH8Emyjk5pUTi6PatG_M0WE-CdGs5UTVJqYTl7CVbDyD0UNq4YqNkZDcXmv3d-Q=w1862-h1396-no?authuser=0">
+    <figcaption>xcxc</figcaption>
+</figure>
+
+_post originally written 9/5, backdated to match reality_
