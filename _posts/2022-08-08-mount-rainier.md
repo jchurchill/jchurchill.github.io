@@ -79,7 +79,7 @@ I especially liked when he explained a bunch of the park's current challenges, a
 
 Some good food for thought for tomorrows's hike, I suppose.
 
-## Day 46: Halfway up to Rainier
+## Day 46: Halfway up to Rainier's Summit
 <!-- 8/5 skyline loop and camp muir -->
 
 Today we woke up early enough to get a parking spot at Paradise. You can see most of the views that Paradise has to offer in one big loop, the [Skyline Loop](https://www.alltrails.com/trail/us/washington/skyline-trail) (6.2 mi, 1800 ft), and that was our plan.
