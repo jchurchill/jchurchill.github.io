@@ -88,7 +88,7 @@ Today we woke up early enough to get a parking spot at Paradise. You can see mos
 
 ### Skyline Loop
 
-The trail starts at the visitor center in Paradise, which itself sits at the base of Mount Rainier, around 5200 ft above sea level. The loop hits various features, and its midpoint sits at a high point with a great view of Mount Adams.
+The trail starts at the visitor center in Paradise, which itself sits at the base of Mount Rainier, around 5200 ft above sea level. The loop hits various features, and halfway through there's a high point with a great view of Mount Adams.
 
 <!-- ceiling / indoor architecture of paradise visitor center -->
 <figure>
@@ -142,7 +142,7 @@ Finally we reached the literal high point, Panorama point.
 
 ### Camp Muir
 
-In researching the trails in this area I also discovered an extension of the Skyline Loop which climbs up to Camp Muir: [Camp Muir via Skyline Loop Trail](https://www.alltrails.com/trail/us/washington/camp-muir-via-skyline-loop-trail) (10.2 mi, 4800 ft elev gain). Camp Muir is an intermediate point sitting at 10000 ft that hikers who are attempting to summit Mount Rainier will use to break up the trip into a few days. Mount Rainier's peak is above 14000 ft and requires some ice climbing skills, so even for capable people it's probably too difficult to summit in a single day.
+In researching the trails in this area I also discovered an extension of the Skyline Loop which climbs up to Camp Muir: [Camp Muir via Skyline Loop Trail](https://www.alltrails.com/trail/us/washington/camp-muir-via-skyline-loop-trail) (10.2 mi, 4800 ft elev gain). Camp Muir is a base camp sitting at 10000 ft that hikers who are attempting to summit Mount Rainier will use to break up the trip into a few days. Mount Rainier's peak is above 14000 ft and requires some ice climbing skills, so even for capable people it's probably too difficult to summit in a single day.
 
 For me, Camp Muir would be an additional four total miles (two each way) and an extra 3000 ft elevation gain off of Skyline Loop. And while the route _was_ purely snow, it wouldn't require any ice climbing. Judy heard "snow" and "3000 ft over 2 miles" and noped out, i.e., continued back to the visitor center where she and I would meet up later. I pressed on to Camp Muir on my own.
 
@@ -204,7 +204,7 @@ For the less steep parts, you can try to ski on your shoes. It kind of works! It
     <figcaption>did not expect this to be my experience in nature during the peak of summer</figcaption>
 </figure>
 
-It took me a little less than two hours to reach Camp Muir from Panorama Point, and only forty-five minutes to come back down, thanks to all the sliding. So fun.
+It took me a little less than two hours to reach Camp Muir from Panorama Point, and only forty-five minutes to come back down, thanks to all the sliding (aka "glissading"). So fun.
 
 I found Judy at the visitor center waiting for me, reading a book. We stopped by the visitor center's store to restock ice for our cooler and I made a joke about it being fresh from the glacier; the cashier seemed unamused. Back at camp, we made dinner and attended another ranger program, this time about Rainier's glaciers. A good day. 🙂
 
@@ -215,7 +215,7 @@ I found Judy at the visitor center waiting for me, reading a book. We stopped by
 
 With the two days we had left for Rainier, we wanted to visit the northeast part of the park known as Sunrise, another popular hiking area. We were hoping to base ourselves in the nearby White River campground.
 
-The drive to White River from Cougar Rock was a couple of hours. This was on a Saturday morning, in a popular part of the park, not all that far from Seattle, and we were trying to get a spot at a first-come-first-serve campground again by arriving around 10am. Not a recipe for success.
+The drive to White River from Cougar Rock was about an hour. This was on a Saturday morning, in a popular part of the park, not all that far from Seattle, and we were trying to get a spot at a first-come-first-serve campground again by arriving around 10am. Not a recipe for success.
 
 And indeed when we arrived at the entrance station near Sunrise, we were greeted with a seemingly endless line of cars ahead of us and an estimate from a ranger that we'd be waiting at least an hour before we could get to the entrance. Several people were giving up and turning around; one guy was angrily (and obnoxiously) yelling out of his car "they're gonna make you turn around!" as he drove by on his way back out, referring to the fact that day hikers who were hoping for a parking spot at Sunrise would be turned away. We held on to hope that the hundred or so people in front of us were all day hikers and not campers. 🤞  
 
