@@ -122,7 +122,7 @@ We came upon the high point of this hike well before we were done with the ascen
     <figcaption>"no, you misheard, I said you were hoary†"</figcaption>
 </figure>
 
-† https://en.wikipedia.org/wiki/Hoary_marmot
+† [https://en.wikipedia.org/wiki/Hoary_marmot](https://en.wikipedia.org/wiki/Hoary_marmot){:target="_blank"}
 
 For all seventeen climactic seconds of this historic match, see [here](https://photos.google.com/share/AF1QipPVD5awRC79lNkeBXnR1e2QAT5hNpN7p96xp6cTO5oBwQ88tP0ey90k-fhqqE_Vxw/photo/AF1QipM9dSDPKhu3vC1CoU3ZPbd6N2JE94tUlYCKooFp?key=QjZlelRkemZiVjhRMWswWlNsVTROclpENDFRQ0Zn){:target="_blank"}.
 
