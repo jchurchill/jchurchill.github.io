@@ -2,7 +2,7 @@
 title: "Mount Rainier NP"
 author: Justin Churchill
 ---
-xcxc intro
+Mount Rainier National Park, with more glaciers than Glacier National Park, is a snowy place known for its alpine wildflower meadows, great views of the cascade range, and ice climbing backpackers hoping to summit its 14,417 ft peak. We're just mere day hikers, but that didn't stop us from playing in the snow a bit. 10,000 ft can be fun too! ⛄️
 
 ## Day 45: A Comet Falls
 <!-- 8/4 comet falls to mildred point -->
@@ -13,7 +13,7 @@ xcxc intro
     <figcaption>waking up among the trees</figcaption>
 </figure>
 
-We couldn't tell in the dark when we arrived at almost midnight last night, but our campground was nice and woodsy, the big trees making us feel small and secluded. However, the first priority today was to move out of here and into a park-run first-come-first-serve campground, Cougar Rock, so we could be closer to Rainier's main trailheads. Getting a spot at Cougar Rock was no problem on a Thursday morning.
+We couldn't tell in the dark when we arrived at almost midnight last night, but our US forest service campground just outside the park was nice and woodsy, the big trees making us feel small and secluded. However, the first priority today was to move out of here and into a park-run first-come-first-serve campground, Cougar Rock, so we could be closer to Rainier's main trailheads. Getting a spot at Cougar Rock was no problem on a Thursday morning.
 
 At Cougar Rock, we were in the southern part of the park, less than an hour's drive from the popular area known as Paradise. Paradise has the trailhead to several great trails. We'd read that getting a parking spot at Paradise would require showing up early, but we had already used the early hours of the day to move camp. So, rather than taking the risk of potentially driving there and having to turn around, we decided to spend today on a hike closer to camp: [Mildred Point via Comet Falls](https://www.alltrails.com/trail/us/washington/mildred-point-via-comet-falls--4) (7.8 mi, 2700 ft elev gain).
 
@@ -197,34 +197,37 @@ For the less steep parts, you can try to ski on your shoes. It kind of works! It
 <!-- feet and poles while I actively slide down the ice -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEVvRFiDFqaE3s47AbFdUGtTrzmzBCpmNkZS54zsvjhWl6wssL2qwhx6ZLVtLVf9Dn86iPrc1lSxzXoHB8YBogw1nfnH0OeuiwgbRSMYmyShiNGMRW2Nkc9L5xA6XkvZ8QDdZRSURq13FcBEMXwEoQ5vWQ=w750-h1334-no?authuser=0">
-    <figcaption>honestly did not expect this to be my experience in nature during the peak of summer</figcaption>
+    <figcaption>did not expect this to be my experience in nature during the peak of summer</figcaption>
 </figure>
 
 It took me a little less than two hours to reach Camp Muir from Panorama Point, and only forty-five minutes to come back down, thanks to all the sliding. So fun.
 
-I found Judy at the visitor center. We stopped by the visitor center's store to restock ice for our cooler and I made a joke about it being fresh from the glacier; the cashier seemed unamused. Back at camp, we made dinner and attended another ranger program, this time about Rainier's glaciers. A good day. 🙂
+I found Judy at the visitor center waiting for me, reading a book. We stopped by the visitor center's store to restock ice for our cooler and I made a joke about it being fresh from the glacier; the cashier seemed unamused. Back at camp, we made dinner and attended another ranger program, this time about Rainier's glaciers. A good day. 🙂
 
-## Day 47: xcxc
+## Day 47: Burroughs Mountain
 <!-- 8/6, burroughs mountain -->
 
 ### Waiting for the Sun to Rise
 
-With the two days we had left for Rainier, we wanted to visit other parts of the park besides the south. Notably, we were hoping to base ourselves in the White River campground, near the Sunrise area in the northeast part of the park, another popular hiking area.
+With the two days we had left for Rainier, we wanted to visit the northeast part of the park known as Sunrise, another popular hiking area. We were hoping to base ourselves in the nearby White River campground.
 
-The drive to White River from Cougar Rock was a couple of hours. This was Saturday morning, in a popular part of the park, not all that far from Seattle, and we were trying to get a spot at a first-come-first-serve campground again by arriving around 10am. Not a recipe for success.
+The drive to White River from Cougar Rock was a couple of hours. This was on a Saturday morning, in a popular part of the park, not all that far from Seattle, and we were trying to get a spot at a first-come-first-serve campground again by arriving around 10am. Not a recipe for success.
 
 And indeed when we arrived at the entrance station near Sunrise, we were greeted with a seemingly endless line of cars ahead of us and an estimate from a ranger that we'd be waiting at least an hour before we could get to the entrance. Several people were giving up and turning around; one guy was angrily (and obnoxiously) yelling out of his car "they're gonna make you turn around!" as he drove by on his way back out, referring to the fact that day hikers who were hoping for a parking spot at Sunrise would be turned away. We held on to hope that the hundred or so people in front of us were all day hikers and not campers. 🤞  
 
 To our surprise, it worked out, and we got a campsite. So I've got a tip for you Seattle folks: just do the whole weekend camping in Rainier, don't do a day hike. Or... somehow arrive before 8am.
 
-Anyway, after finally setting up camp we were finally ready to set off on a hike around 1pm. Due to the late start, we opted for a trail that left right from the campground: [Burroughs Mountain](https://www.alltrails.com/trail/us/washington/glacier-basin-to-burroughs-mountain-to-wonderland-trail-loop?p=-1). We added an extension to the Third Burrough peak making the overall stats on this 12.7 mi, 4100 ft elev gain.
+Anyway, after finally setting up camp we were finally ready to set off on a hike. Due to the late start, we opted for a trail that left right from the campground: [Burroughs Mountain](https://www.alltrails.com/trail/us/washington/glacier-basin-to-burroughs-mountain-to-wonderland-trail-loop?p=-1). We added the extension to the Third Burrough peak making the overall stats on this 12.7 mi, 4100 ft elev gain.
+
+### The Burroughs
 
 <!-- meadow on the way up to burroughs -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEXqorXefYGIEqYs34yBGXWzT_hI-NDcV8ivj5hnGlbIK63pn52a7Z47ivDBNzjLWYPIn5UZTqahSi6uTnsVBJOeptg1YApdu4xPiyHZ9UN3q0-SIhoUzdf8wxHexVNPi_CmBElhosqzJMK3EmKHn_Yc3A=w1862-h1396-no?authuser=0">
-    <figcaption>more classic Rainier alpine meadow, on the way up</figcaption>
+    <figcaption>classic Rainier alpine meadow, on the way up</figcaption>
 </figure>
 
+The Burroughs Mountain has three peaks that the typical route visits. Our route was slightly different since we were coming from White River camp; it headed straight to the Second peak.
 
 <!-- judy on scree filled trail nearing the first summit of burroughs -->
 <figure>
@@ -235,34 +238,36 @@ Anyway, after finally setting up camp we were finally ready to set off on a hike
 <!-- same as above, but on snow this time -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEW3ra8-YKg0xaYij76OiP0E3F2JIoUolDTq_SFJ9CjFanMS3AiU1NdlcR1NbGfhrCrtjoAprvb-x__EEXRXQyxtgy7ujzHoZo3-rIo2BCqE-QPzvV6CGECkG4I6zXF6Nc8BH_SHBOnW6eVJxgvtfTkzTA=w1862-h1396-no?authuser=0">
-    <figcaption>same thing, but toss in an extra scary snow challenge</figcaption>
+    <figcaption>same thing, but toss in an extra no-falls-allowed snow challenge</figcaption>
 </figure>
 
 <!-- me at the second burroughs peak with rainier behind -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEVy7eIhMJj7Y1I3kIF2XVEuDhlPXlz3ISChyiJm3CEQFGL6M2fyfWxpoeXk3P36w3J1TUFQMY3NUJHifDgIP7CSL5ecgQdJc80FWY20_K7CqFBL2HvOImpwlwbRa0qK6HXUS7pZ35DdHiBwXGm6v_5-3g=w1862-h1396-no?authuser=0">
-    <figcaption>at the second Burroughs peak, a great viewpoint with lots of scree</figcaption>
+    <figcaption>at the Second peak, a great viewpoint with lots of scree</figcaption>
 </figure>
 
-<!-- judy on first burroughs peak with flat field of scree -->
+<!-- judy on second burroughs peak with flat field of scree -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEXP1nNhVt_oWuIYfpLFPqBACmBEPbD7bHU3DukUCADOvuZ3YfI3oH_WBCHLxRr2yJ7llicHFjLXAKmkQv8Hr8gOT_yP2DyYQJUqUj9tboL3PE3F7ujbGx4B4d-jLXdwy06D0c1IN53WIrzUs8SiSbggSQ=w1862-h1396-no?authuser=0">
-    <figcaption>second peak, facing other direction; i meant it about the scree</figcaption>
+    <figcaption>Second peak, facing other direction; i meant it about the scree!</figcaption>
 </figure>
 
-From here, the hike over to the third Burroughs peak feels like yet more work after you've already worked so hard to get to a peak, but what makes it cool is how its viewpoint overlooks a massive glacier.
+From here, the hike over to the Third peak feels like yet more work after you've already worked so hard to get to a peak, but what makes the Third peak cool is how its viewpoint overlooks a massive glacier.
 
 <!-- scenic view of rainier as you descend first burroughs peak towards the next -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEVuZPLYfIIBibdYT2jb-SRwBLZZ3P4-NQh40o28sr9beUeHd8eXmV4aj7mIbxCuu4AMRHAsn8uGGJGtcreO3FwgAnUylq_Ok5MeXm66GnCqQgrcKzMlEEyJKUaTzQ_IcnM7BGmyOwQv18tRGNnBoTVNxg=w1862-h1396-no?authuser=0">
-    <figcaption>the descent from second peak towards the third</figcaption>
+    <figcaption>Rainier welcomes you as you descend from Second peak towards Third</figcaption>
 </figure>
 
 <!-- zoomed in on details of glacier below final burroughs peak -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEU9z5wXxkg6fboroFFTIhy_y6bdUOvKibmIHj4Xmc5Yk19VnTNekDHpbQVLPslYzN8Aj0JcGXVnlql85-NSQy8dX9jNMsqCvnq3NnLBAZo9bkVtVPqm4jwxlmitGhjDS8g94n4PiOlQoBm_PIyusd_vfQ=w1862-h1396-no?authuser=0">
-    <figcaption>glaciers are ice that slowly FLOWS and you can sort of see that here</figcaption>
+    <figcaption>glaciers are ice that slowly FLOWS and you can sort of see that here at Winthrop Glacier</figcaption>
 </figure>
+
+When you're this close to a glacier, you can hear it "groaning" as the moving ice shifts and cracks form from different parts moving at different speeds. Until I learned about this phenomenon, I thought I was hearing small avalanches occurring.
 
 <!-- judy taking a photo at last burroughs peak -->
 <figure>
@@ -270,7 +275,7 @@ From here, the hike over to the third Burroughs peak feels like yet more work af
     <figcaption>so many views to take pictures of!</figcaption>
 </figure>
 
-After this we headed back towards camp and it was mostly descent from here.
+After this it was mostly descent as we made our way back to camp.
 
 <!-- two other guys enjoying the speedy way down on the ice -->
 <figure>
@@ -281,59 +286,75 @@ After this we headed back towards camp and it was mostly descent from here.
 <!-- final scenic mountain view as you descend third peak -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEVW8ej8uVpNiJ-lzyIw0sB85t4racdzqjA7AnKuG0bP8wHk082Xol8c58vNOWyCK7viuFnSILBUgb2tMHRyigr17w0Sh8_SCa8nqiyI4BzMJFEN8O4353fC3lOIU6suNlWD7WYTAcbryy5NFGW0aIbmlg=w1862-h1396-no?authuser=0">
-    <figcaption>so picturesque</figcaption>
+    <figcaption>so picturesque!</figcaption>
 </figure>
 
-This hike was awesome. I'd do it again in a heartbeat.
+I'd do this hike again in a heartbeat.
 
-## Day 48: xcxc
+## Day 48: Panhandle Gap
 <!-- 8/7, panhandle gap -->
 
-[Wonderland Trail to Panhandle Gap](https://www.alltrails.com/trail/us/washington/wonderland-trail-to-panhandle-gap) (11.1 mi, 3200 ft elev gain)
+Last day at Rainier, one last big day hike. Today's plan: 
+[Wonderland Trail to Panhandle Gap](https://www.alltrails.com/trail/us/washington/wonderland-trail-to-panhandle-gap) (11.1 mi, 3200 ft elev gain).
+
+By the way, the Wonderland Trail is the name of the 93-mile trail that circles the entirety of Rainier. Day hikes like this one overlap with bits of it. The full trail sounds like a fun week-long backpacking trip. 😉
+
+There isn't much to say about this trail other than that it offered more of Rainier's classic beauty. I'll let the pics (er, and captions) do the rest of the talking.
 
 <!-- scenery at middle of hike as views open up -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEXCzW9R504FFe_NEYZSlVVxsEdegtfiW6TsHGQeX6914Hba15LZNMw3Dk60i_gOGc91osWuZlwR8ZZo8MHDTdhZxzyVaJ2RsyFb0geG9YUNGQPZfCl5anHuFTUKR8Wxcb_Es7-xyoDZ1bzWIqQgkkjR3g=w1862-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>scenery as views begin to open up</figcaption>
 </figure>
 
 <!-- glacial lake on the way up -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEWplVV11Zxch02c6M0k0JhruCvfinRF7qV8-UPIIJzt9o9L2hZy3tJOedm_7wLosjIqVl7uupCPtZxBlzu7miay7ToKQolk-a60jM4b_6ziSX0mQb5PkfqyoW6TpC8AWDvoZCX8lEh9r0WRmDuBvDyxuA=w1862-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>glacial lake</figcaption>
 </figure>
 
 <!-- judy traversing another snowy trail with a steep dropoff -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEUheoqU3oiNa1FS7PFTz6QXJihMegcFAD6uiKhkuodCLPdE7uTZJ3AWKY_k44uVcPRxXK59JpH5-HdgyjFcdKgPE7Ky7sumy9Du8jAhegrLEHU8vBKq1rLfCbOg4e1AHM4ZW8o_tXBqdnjHgGamsMM8rQ=w1048-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>gotta love these no-fall snow zones</figcaption>
 </figure>
 
 <!-- mount adams from panhandle gap -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEXIPjjqMMTpFjQ8e1KvEJ7tt97jHA0rmBfUQW3vEVS7sWdTXuy-f6Wd9pIwBktlNcqBIvMndU5w0DQyiNJk-iRT-X3q2H8FIIQmwsZBpsPEHLoZX6kPIY6eyC6bmSQBxTVliUEYf_Ml9u4IClJLwVPyyg=w1862-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>mount adams again! but viewed from pandhandle gap</figcaption>
 </figure>
 
 <!-- judy on descent, passing a large stretch of snow -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEW7juAsS2LWc15uNLw0QwdFLgJKW4dL99gMoKxYPa_4KQrVf7_7Qe7gKFcYZDUvfb1C-5Li4IZOaZgnBJMOkjgMKSaCLa81CPQyyiIe54xFVZ_FvkTPZZFtesR7VkQ1DJ_yZNbx1fv10OLsC_fs0lodEg=w1862-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>heading back down, getting pretty good at walking through snow at this point</figcaption>
 </figure>
 
-<!-- judy and me back at camp winking -->
-<figure>
-    <img src="https://lh3.googleusercontent.com/pw/AL9nZEUk9fjAh19B4tBfZo4O8FQ_nwApP050I2uLawJ7RHm1LoghlUDUihrS87lkE8fhiM7QCPy8L0OXIRakONEMt2AJdcbKdZEty6V_LUSQJ-Tkq9FqDDwJUbcd-e5gpGW8e4gvaAYGLl1o1uZqk5ydWe9-Ng=w1860-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
-</figure>
+Overall, as a hiker, Mount Rainier National Park is now one of my favorite. It didn't quite edge out Glacier NP for me, but both Skyline + Camp Muir as well as the Burroughs Mountain Loop are definitely up there in my top 10 hikes of the trip so far.
 
-## Day 49: xcxc
+Just like Glacier NP though, we hiked quite a lot!
+
+| Day    | Distance (mi) | Elev. gain (ft) | Hike             |
+|--------|---------------|-----------------|------------------|
+| 8/4    | 7.5           | 2700            | Comet Falls to Mildred |
+| 8/5    | 10.2          | 4800            | Skyline + Camp Muir |
+| 8/6    | 12.7          | 4100            | Burroughs Mountain |
+| 8/7    | 11.1          | 3200            | Panhandle Gap |
+| **Total** | **41.5**     | **14800**        |  |
+
+
+## Day 49: Off to Olympic
 <!-- 8/8 -->
 
 <!-- driving over the tacoma narrows bridge -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AL9nZEWg0cgq7UUYvV_RqAkrJyrgLrx3Nb9ItNsSFKvKn0Sk60bgng1oLxLClrSCdWw9CRpJLhBJzuoTVN6OERZ-up-0MyVBH8Emyjk5pUTi6PatG_M0WE-CdGs5UTVJqYTl7CVbDyD0UNq4YqNkZDcXmv3d-Q=w1862-h1396-no?authuser=0">
-    <figcaption>xcxc</figcaption>
+    <figcaption>crossing the Tacoma Narrows</figcaption>
 </figure>
+
+After four hiking-only days in Rainier, we also had plenty of chores that needed attending. Together with the long drive to Olympic National Park, today was a day of mostly work and little fun.
+
+Olympic is a pretty huge park too, making it difficult to explore it all while based in a single place. We decided to at least start by getting a first-come-first-serve site at Heart O' The Hills campground in the north and play it by ear after that.
 
 _post originally written 9/10, backdated to match reality_
