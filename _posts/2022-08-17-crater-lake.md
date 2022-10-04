@@ -94,7 +94,7 @@ To make a full day, we found the three best viewpoints around the rim and hiked 
 * [Mount Scott Trail](https://www.alltrails.com/explore/trail/us/oregon/mount-scott-trail) (4.2 mi, 1300 ft elev gain)
 * [Watchman Peak Trail](https://www.alltrails.com/explore/trail/us/oregon/the-watchman-peak-trail) (1.7 mi, 400 ft elev gain)
 
-Describing this park as a bunch of lake vistas is admittedly a bit of a simplification. For example, [Crater Peak](https://www.alltrails.com/explore/trail/us/oregon/crater-peak-trail) seemed cool and is far from the rim. [Cleetwood Cove](https://www.alltrails.com/explore/trail/us/oregon/cleetwood-cove-trail) descends to the lake, plus from there you can (expensively?) boat over to [Wizard Island](https://www.alltrails.com/explore/trail/us/oregon/wizard-island). Though I'm not sure I'd spend muliple days here just to hit all of it.
+Describing this park as a bunch of lake vistas is admittedly a bit of a simplification. For example, [Crater Peak](https://www.alltrails.com/explore/trail/us/oregon/crater-peak-trail) seemed cool and is far from the rim. [Cleetwood Cove](https://www.alltrails.com/explore/trail/us/oregon/cleetwood-cove-trail) descends to the lake, plus from there you can (expensively?) boat over to [Wizard Island](https://www.alltrails.com/explore/trail/us/oregon/wizard-island). Though I'm not sure I'd spend multiple days here just to hit all of it.
 
 <!-- crater lake! -->
 <figure>
