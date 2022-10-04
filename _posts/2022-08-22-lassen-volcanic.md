@@ -5,6 +5,7 @@ author: Justin Churchill
 Everyone knows about the eruption of Mount St. Helens, but did you know that there was just one other big volcanic eruption in the mainland USA since the 1900s? Lassen Peak (in 1915)! Since then the area was preserved as a national park mainly for the study of the dormant volcano. We're just here to hike up whatever the eruption left behind.
 
 ## Day 59: Manzanita Lake
+<!-- 8/18 -->
 
 We arrived at Lassen Volcanic NP around 3:30pm after the four hour drive from Crater Lake. With only a few hours of daylight left, we didn't form any big plans for the day. Just set up camp, and do a simple walk around Manzanita Lake, which is the lake next to the park's northern campground where we were staying for one night.
 
@@ -31,6 +32,7 @@ The one exception to that was this spot where Lassen Peak and its reflection ove
 </figure>
 
 ## Day 60: Lassen Peak & Mini Yellowstone
+<!-- 8/19 -->
 
 Lassen Volcanic NP isn't very big, and is another park whose main attractions we felt we could see in just one day. So this was that day!
 
@@ -123,6 +125,7 @@ The area was cool, but having seen actual Yellowstone only a few weeks ago, it w
 That night we stayed in a different campground, Summit Lake North, because its location was a little more convenient. We did our standard evening routine of cooking, cleaning, sleeping. Tomorrow we'd leave for San Francisco, returning to the city dweller life for the second weekend in a row.
 
 ## Day 61-63: San Francisco
+<!-- 8/20 - 8/22 -->
 
 I didn't bother documenting much of what we did in SF. It didn't feel like travel since being there wasn't new for us. In fact, in many ways, it felt like a return to normal. We moved away from SF over to NYC right when the pandemic struck, and it's been a slow process to shake the association that developed of _SF = fun, NY = pandemic_.
 
