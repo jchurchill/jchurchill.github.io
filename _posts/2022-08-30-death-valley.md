@@ -102,7 +102,7 @@ Anywhere we could find shade, we entered it. When there were long stretches with
     <figcaption>doing what I must to stay conscious</figcaption>
 </figure>
 
-We reached the red cathedral, snapped some pics, and hurried back. By this point in the day the temperature increasing quickly. It was probably nearing 105 ℉ now.
+We reached the red cathedral, snapped some pics, and hurried back. By this point in the day the temperature was increasing quickly. It was probably nearing 105 ℉ now.
 
 <!-- cathedral rock -->
 <figure>
