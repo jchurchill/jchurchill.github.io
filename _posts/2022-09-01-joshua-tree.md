@@ -31,7 +31,7 @@ We chose Hidden Valley Campground to set up camp. Its campsites are awesome, all
 
 Once night fell, the temperature actually became pleasant, and we sat outside on our camp chairs stargazing. With a clear sky and no moon in phase, it was perfect for seeing the milky way. Highly recommend. 🌌
 
-## Day 72: 
+## Day 72: Everything Revolves Around the Sun
 <!-- 8/31 -->
 
 <!-- sunrise view from campsite -->
