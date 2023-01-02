@@ -3,6 +3,7 @@ title: "Western Road Trip: Northbound Itinerary"
 author: Justin Churchill
 ---
 From mid-June to mid-September, Judy and I will be going on a long road trip in the Western US, mostly living out of our SUV, doing a mix of normal and [dispersed](https://www.blm.gov/programs/recreation/camping){:target="_blank"} camping. These are the rough plans for the northbound half, which should last about 6 weeks.
+<!--end_excerpt-->
 
 We are planning to hit the road on 6/21. We'd love to meet up with others for any part of it - message me if you might be in any of the parks or cities we plan to stop in!
 

@@ -2,9 +2,15 @@
 title: "Grand Teton NP, WY"
 author: Justin Churchill
 ---
+_2022 Parks Road Trip Diary: Days 17-22_
+
+Grand Teton National Park, home of the classic Teton Range. We got in some great hiking here, and had our first bear encounter!
+<!--end_excerpt-->
 
 ## Day 17: Jackson Hole
+
 We drove 8 hours from Rocky Mountain NP to arrive at Jackson, WY, a mountain-resort-style town just south of Grand Teton National Park. The drive wasn't very scenic until the Grand Teton range finally appeared in the distance.
+
 <!-- empty wyoming -->
 <figure>
     <img src="https://lh3.googleusercontent.com/pw/AM-JKLXAiSMu5hK_elf-tkUDLuc2f3BRCKEXi1hZerGptIVq46Ng3DqiCexAGMHD4gZvz-1giyxMFtBzuxUilDBQWVkjc5nsrDpvfLSw2otGFz41p3bJ3-DHP-BXucmbSlCXelMDysocHkzBD4Y45TGtpXjZGQ=w1862-h1396-no?authuser=0">

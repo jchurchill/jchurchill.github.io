@@ -2,8 +2,10 @@
 title: "Yellowstone NP, WY"
 author: Justin Churchill
 ---
+_2022 Parks Road Trip Diary: Days 22-27_
 
 Yellowstone: America's first, largest, and most frequently visited national park, known for its various geothermal features and its ~~murderous~~ numerous bison. As our guide book says, rather dramatically, _"Touch it. Smell it. Feel it. It is Yellowstone."_
+<!--end_excerpt-->
 
 And despite the historic flooding and subsequent damage that occurred in June this year, the park wasn't closed when we got there! Only certain roads were closed: the northern and eastern routes out of the park, which at worst just reduced some of our hiking options.
 

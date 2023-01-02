@@ -2,9 +2,12 @@
 title: "Mount Rainier NP, WA"
 author: Justin Churchill
 ---
+_2022 Parks Road Trip Diary: Days 45-50_
+
 Mount Rainier National Park, with more glaciers than Glacier National Park, is a snowy place known for its alpine wildflower meadows, great views of the cascade range, and ice climbing backpackers hoping to summit its 14,417 ft peak. We're just mere day hikers, but that didn't stop us from playing in the snow a bit. 10,000 ft can be fun too! ⛄️
 
 This is a long one. Rainier had so much to offer!
+<!--end_excerpt-->
 
 ## Day 45: A Comet Falls
 <!-- 8/4 comet falls to mildred point -->

@@ -2,6 +2,10 @@
 title: "Black Canyon of the Gunnison NP, CO"
 author: Justin Churchill
 ---
+_2022 Parks Road Trip Diary: Days 7-9_
+
+At no other point in our entire road trip did we receive a fifteen minute lecture on how to not get lost on a hike. But apparently this is needed when you descend into _the Black Canyon_. (cue scary music)
+<!--end_excerpt-->
 
 ## Day 7: Driving to Black Canyon
 The afternoon of the 27th, after the previous hike at Mesa Verde, we set off to Black Canyon of the Gunnison NP, a ~4 hour drive. This was probably the most scenic multi-hour drive we've ever done. I was not expecting it to be this pretty given that we were just trying to get from A to B.

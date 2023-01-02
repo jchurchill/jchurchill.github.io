@@ -2,6 +2,11 @@
 title: "White Sands NP, NM"
 author: Justin Churchill
 ---
+_2022 Parks Road Trip Diary: Days 3-4_
+
+The name White Sands unsurprisingly captures very well what this park is all about. What I did not expect was the feeling of disorientation when the ground around you in all directions blends into itself in a sea of white. At times it was peaceful, at others unsettling.
+<!--end_excerpt-->
+
 ## Day 3 (continued): arrive at White Sands
 We arrived at Oliver Lee State Park after a ~3 hour drive and set up camp in a spot we had reserved. It had such a nice expansive view of New Mexico! Overall the grounds were pretty nice - they had showers!!
 
