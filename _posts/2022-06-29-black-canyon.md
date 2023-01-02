@@ -2,6 +2,8 @@
 title: "Black Canyon of the Gunnison NP, CO"
 author: Justin Churchill
 ---
+***2022 Parks Road Trip Diary: Days 7-9***
+
 At no other point in our entire road trip did we receive a fifteen minute lecture on how to not get lost on a hike. But apparently this is needed when you descend into _the Black Canyon_. (cue scary music)
 <!--end_excerpt-->
 

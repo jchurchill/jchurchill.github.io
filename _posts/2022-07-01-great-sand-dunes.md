@@ -2,6 +2,8 @@
 title: "Great Sand Dunes NP, CO"
 author: Justin Churchill
 ---
+***2022 Parks Road Trip Diary: Days 9-11***
+
 Great Sand Dunes National Park: not just a tan version of White Sands. Surrounded by greenery on all sides, it felt like the world's biggest sandbox.
 <!--end_excerpt-->
 

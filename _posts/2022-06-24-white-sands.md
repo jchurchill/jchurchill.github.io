@@ -2,6 +2,8 @@
 title: "White Sands NP, NM"
 author: Justin Churchill
 ---
+***2022 Parks Road Trip Diary: Days 3-4***
+
 The name White Sands unsurprisingly captures very well what this park is all about. What I did not expect was the feeling of disorientation when the ground around you in all directions blends into itself in a sea of white. At times it was peaceful, at others unsettling.
 <!--end_excerpt-->
 

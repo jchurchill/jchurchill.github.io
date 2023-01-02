@@ -2,6 +2,8 @@
 title: "Crater Lake NP, OR"
 author: Justin Churchill
 ---
+***2022 Parks Road Trip Diary: Days 56-59***
+
 Crater Lake is the deepest lake in the USA. It's what you get when a volcano explodes and leaves a huge crater behind in a very snowy place. All of its water is provided directly by precipitation, unlike most lakes, which are fed by rivers. While there's not a ton to do in the park, it's really quite a sight to behold.
 <!--end_excerpt-->
 

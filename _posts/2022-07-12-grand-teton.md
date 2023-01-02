@@ -2,6 +2,8 @@
 title: "Grand Teton NP, WY"
 author: Justin Churchill
 ---
+***2022 Parks Road Trip Diary: Days 17-22***
+
 Grand Teton National Park, home of the classic Teton Range. We got in some great hiking here, and had our first bear encounter!
 <!--end_excerpt-->
 

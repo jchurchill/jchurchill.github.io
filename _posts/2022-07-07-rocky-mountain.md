@@ -2,6 +2,8 @@
 title: "Rocky Mountain NP, CO"
 author: Justin Churchill
 ---
+***2022 Parks Road Trip Diary: Days 11-17***
+
 Rocky Mountain National Park is a top-tier national park in the US. It's got plenty of challenging but rewarding hikes, glacial lakes, and cool wildlife (elk!). This place was poppin' over the fourth of July weekend.
 <!--end_excerpt-->
 
