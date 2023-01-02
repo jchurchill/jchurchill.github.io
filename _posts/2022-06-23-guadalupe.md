@@ -2,7 +2,7 @@
 title: "Guadalupe Mountain NP, TX"
 author: Justin Churchill
 ---
-***2022 Parks Road Trip Diary: Days 1-3***
+_2022 Parks Road Trip Diary: Days 1-3_
 
 Guadalupe National Park set the bar high for the rest of our road trip. Seeing the view from a mountain peak is always great, but there's something really special about the feeling when it's flat _everywhere else as far as you can see_.
 <!--end_excerpt-->

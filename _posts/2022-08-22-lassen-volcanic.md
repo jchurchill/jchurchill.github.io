@@ -2,7 +2,7 @@
 title: "Lassen Volcanic NP, CA"
 author: Justin Churchill
 ---
-***2022 Parks Road Trip Diary: Days 59-64***
+_2022 Parks Road Trip Diary: Days 59-64_
 
 Everyone knows about the eruption of Mount St. Helens, but did you know that there was just one other big volcanic eruption in the mainland USA since the 1900s? Lassen Peak (in 1915)! Since then the area was preserved as a national park mainly for the study of the dormant volcano. We're just here to hike up whatever the eruption left behind.
 <!--end_excerpt-->

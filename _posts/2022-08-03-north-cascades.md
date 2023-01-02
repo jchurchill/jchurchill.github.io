@@ -2,7 +2,7 @@
 title: "North Cascades NP, WA"
 author: Justin Churchill
 ---
-***2022 Parks Road Trip Diary: Days 43-45***
+_2022 Parks Road Trip Diary: Days 43-45_
 
 North Cascades National Park seems like a great continuation of all the sweet hiking trails we've come to associate with this part of North America, but sadly due to closures and a tight timeline we were barely able to scratch the surface of what this park has to offer. We only spent one day here, but we know exactly what we'll be doing when we come back!
 <!--end_excerpt-->
