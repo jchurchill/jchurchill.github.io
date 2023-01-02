@@ -2,6 +2,8 @@
 title: "Mesa Verde NP, CO"
 author: Justin Churchill
 ---
+We didn't get the full picture of Mesa Verde due to some closures. Still, making the climb through the canyon walls was fun when you imagined yourself as one of the ancient peoples living one of the cliff dwellings, making the daily hike up to the top to get some farming done.
+<!--end_excerpt-->
 
 ## Day 6: Welcome to Colorado!
 <!-- welcome to colorful colorado -->

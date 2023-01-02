@@ -26,6 +26,7 @@ url: "https://www.jchurch.page" # the base hostname & protocol for your site, e.
 linkedin_username: sirchill
 instagram_username: sustin413
 show_excerpts: true
+excerpt_separator: <!--end_excerpt-->
 
 # Build settings
 theme: minima

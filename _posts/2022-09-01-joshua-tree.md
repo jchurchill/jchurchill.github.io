@@ -3,6 +3,7 @@ title: "Joshua Tree NP, CA"
 author: Justin Churchill
 ---
 Joshua Tree exists at the intersection of the Mojave and Colorado deserts, and is known for its distinctive rock formations and of course, its Joshua Trees, the spiky-looking half-cacti, half-trees. We only spent a little more than a day at this park, but a climber could probably enjoy ages here looking for paths up all the massive piles of granite boulders.
+<!--end_excerpt-->
 
 ## Day 71 (evening): A Warm Welcome to Joshua Tree
 <!-- 8/30 -->

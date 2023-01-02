@@ -2,6 +2,9 @@
 title: "Guadalupe Mountain NP, TX"
 author: Justin Churchill
 ---
+Guadalupe National Park set the bar high for the rest of our road trip. Seeing the view from a mountain peak is always great, but there's something really special about the feeling when it's flat _everywhere else as far as you can see_.
+<!--end_excerpt-->
+
 ## Not a good start
 The excitement of heading out onto the open road was immediately killed by the car alert noise: tire pressure low in front left tire. With some inspection, the cause was apparent. Nail that we must’ve driven over the night before.
 

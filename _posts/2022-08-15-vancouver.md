@@ -3,6 +3,7 @@ title: "Vancouver, Canada"
 author: Justin Churchill
 ---
 After Olympic NP, we traveled to Vancouver to finally do our meetup with our friends who came there from SF. Being with friends, I mostly put the camera away, forgot about this blog, and just hung out with them. So, our time in Vancouver isn't as well documented, and this post is short. But I'd be remiss if I didn't at least share a few pics I snapped!
+<!--end_excerpt-->
 
 ## Day 54 & 55: Vancouver
 <!-- 8/13, 8/14 vancouver -->

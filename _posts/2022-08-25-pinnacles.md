@@ -3,6 +3,7 @@ title: "Pinnacles NP, CA"
 author: Justin Churchill
 ---
 Pinnacles is a small and only mildly popular national park a few hours south of San Francisco. I never made it out there back when we lived in SF, so I was looking forward to seeing what I missed out on! The answer: lots of wildlife, some interesting caves, and a swimming pool! But probably more than anything else, I will remember this park for our nightly standoff with its raccoons.
+<!--end_excerpt-->
 
 ## Brief note about these posts
 

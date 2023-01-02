@@ -5,6 +5,7 @@ author: Justin Churchill
 Death Valley: it's the hottest place on earth (by record high temp). Most people don't visit in the middle of summer, instead preferring the winter months when it's a more bearable place. But we didn't know when we'd be back here, and didn't want to miss it! And plus, we once camped in Bryce Canyon in November when it was 15 ℉ there, so I'm sure we could deal with the other end of the spectrum? 
 
 We planned two nights here but only lasted for one. This is not something I would subject myself to ever again.
+<!--end_excerpt-->
 
 ## Day 70 (night): Furnace Creek Lives Up to its Name
 <!-- 8/29 -->

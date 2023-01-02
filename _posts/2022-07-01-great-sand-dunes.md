@@ -2,6 +2,8 @@
 title: "Great Sand Dunes NP, CO"
 author: Justin Churchill
 ---
+Great Sand Dunes National Park: not just a tan version of White Sands. Surrounded by greenery on all sides, it felt like the world's biggest sandbox.
+<!--end_excerpt-->
 
 ## Day 9: Getting to Great Sand Dunes
 Reaching Great Sand Dunes from Black Canyon of the Gunnison ended up being quite a slog because of a closed highway. Instead of being a five-hour drive, it became six. Fortunately we had beautiful Colorado to stare at 😯
