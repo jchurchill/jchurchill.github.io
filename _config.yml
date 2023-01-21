@@ -27,6 +27,7 @@ linkedin_username: sirchill
 instagram_username: sustin413
 show_excerpts: true
 excerpt_separator: <!--end_excerpt-->
+google_analytics: G-5WP0MY0L2G
 
 # Build settings
 theme: minima
