@@ -23,6 +23,11 @@ figcaption {
     font-size: smaller;
 }
 
+.responsive-dim-limits {
+    max-width:70vw;
+    max-height:80vh;
+}
+
 .site-nav {
     z-index: 100000;
 }

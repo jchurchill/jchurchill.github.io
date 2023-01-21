@@ -8,6 +8,12 @@ xcxc
 
 <!--end_excerpt-->
 
+<!-- map of the drive -->
+<figure>
+  <iframe src="https://www.google.com/maps/d/embed?mid=1C-snVb6Hk6Y2AGtLa0Yw36B-uE7fUxA&ehbc=2E312F" width="640" height="480" class="responsive-dim-limits"></iframe>
+  <figcaption>the full trip</figcaption>
+</figure>
+
 ## Health and Nutrition
 
 I'm overall a decently healthy dude, but during this trip is the healthiest I've felt in a long time.
